@@ -31,39 +31,38 @@
 29,84.0,-24.0,Goal,84.0,-24.0,2020020450,Pittsburgh Penguins,Home,Boston Bruins
 30,86.0,-18.0,Goal,86.0,-18.0,2020020151,Pittsburgh Penguins,Home,New Jersey Devils
 31,76.0,7.0,Goal,76.0,7.0,2020020509,Pittsburgh Penguins,Home,Buffalo Sabres
-32,-89.0,7.0,Goal,89.0,-7.0,2020020561,Pittsburgh Penguins,Home,New York Islanders
-33,-68.0,3.0,Goal,68.0,-3.0,2020020494,Pittsburgh Penguins,Away,New Jersey Devils
-34,-82.0,-4.0,Goal,82.0,4.0,2020020680,Pittsburgh Penguins,Home,Philadelphia Flyers
-35,82.0,-18.0,Goal,82.0,-18.0,2020020166,Pittsburgh Penguins,Home,New Jersey Devils
-36,60.0,21.0,Goal,60.0,21.0,2020020733,Pittsburgh Penguins,Home,New Jersey Devils
-37,-85.0,28.0,Goal,85.0,-28.0,2020020746,Pittsburgh Penguins,Home,New Jersey Devils
-38,86.0,-4.0,Goal,86.0,-4.0,2020020815,Pittsburgh Penguins,Away,Philadelphia Flyers
-39,-74.0,11.0,Goal,74.0,-11.0,2020020826,Pittsburgh Penguins,Away,Philadelphia Flyers
-40,66.0,17.0,Goal,66.0,17.0,2020020826,Pittsburgh Penguins,Away,Philadelphia Flyers
-41,79.0,1.0,Goal,79.0,1.0,2020020842,Pittsburgh Penguins,Home,Buffalo Sabres
-42,-65.0,8.0,Goal,65.0,-8.0,2020030111,Pittsburgh Penguins,Home,New York Islanders
-43,79.0,1.0,Goal,79.0,1.0,2021020249,Pittsburgh Penguins,Away,Montréal Canadiens
-44,73.0,9.0,Goal,73.0,9.0,2021020319,Pittsburgh Penguins,Home,Montréal Canadiens
-45,83.0,6.0,Goal,83.0,6.0,2021020376,Pittsburgh Penguins,Away,Vancouver Canucks
-46,-86.0,6.0,Goal,86.0,-6.0,2021020387,Pittsburgh Penguins,Away,Seattle Kraken
-47,77.0,9.0,Goal,77.0,9.0,2021020597,Pittsburgh Penguins,Home,St. Louis Blues
-48,16.0,37.0,Goal,16.0,37.0,2021020688,Pittsburgh Penguins,Away,Vegas Golden Knights
-49,-81.0,6.0,Goal,81.0,-6.0,2021020707,Pittsburgh Penguins,Home,Ottawa Senators
-50,-85.0,6.0,Goal,85.0,-6.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
-51,-77.0,16.0,Goal,77.0,-16.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
-52,48.0,-39.0,Goal,48.0,-39.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
-53,77.0,1.0,Goal,77.0,1.0,2021020733,Pittsburgh Penguins,Home,Winnipeg Jets
-54,80.0,3.0,Goal,80.0,3.0,2021020747,Pittsburgh Penguins,Home,Arizona Coyotes
-55,-71.0,-4.0,Goal,71.0,4.0,2021020786,Pittsburgh Penguins,Home,Los Angeles Kings
-56,82.0,15.0,Goal,82.0,15.0,2021020523,Pittsburgh Penguins,Away,Boston Bruins
-57,86.0,-14.0,Goal,86.0,-14.0,2021020514,Pittsburgh Penguins,Home,Philadelphia Flyers
-58,-68.0,-17.0,Goal,68.0,17.0,2021021304,Pittsburgh Penguins,Home,Carolina Hurricanes
-59,-60.0,-17.0,Goal,60.0,17.0,2021020864,Pittsburgh Penguins,Away,Tampa Bay Lightning
-60,75.0,-3.0,Goal,75.0,-3.0,2021020876,Pittsburgh Penguins,Away,Carolina Hurricanes
-61,81.0,16.0,Goal,81.0,16.0,2021020906,Pittsburgh Penguins,Home,Florida Panthers
-62,-91.0,31.0,Goal,91.0,-31.0,2021020945,Pittsburgh Penguins,Home,Carolina Hurricanes
-63,-84.0,2.0,Goal,84.0,-2.0,2021020991,Pittsburgh Penguins,Away,Arizona Coyotes
-64,-81.0,-2.0,Goal,81.0,2.0,2021020991,Pittsburgh Penguins,Away,Arizona Coyotes
-65,66.0,16.0,Goal,66.0,16.0,2021021014,Pittsburgh Penguins,Away,Buffalo Sabres
-66,-80.0,-7.0,Goal,80.0,7.0,2021021050,Pittsburgh Penguins,Home,Detroit Red Wings
-67,45.0,14.0,Goal,45.0,14.0,2021021062,Pittsburgh Penguins,Home,New York Rangers
+32,-68.0,3.0,Goal,68.0,-3.0,2020020494,Pittsburgh Penguins,Away,New Jersey Devils
+33,-82.0,-4.0,Goal,82.0,4.0,2020020680,Pittsburgh Penguins,Home,Philadelphia Flyers
+34,82.0,-18.0,Goal,82.0,-18.0,2020020166,Pittsburgh Penguins,Home,New Jersey Devils
+35,60.0,21.0,Goal,60.0,21.0,2020020733,Pittsburgh Penguins,Home,New Jersey Devils
+36,-85.0,28.0,Goal,85.0,-28.0,2020020746,Pittsburgh Penguins,Home,New Jersey Devils
+37,86.0,-4.0,Goal,86.0,-4.0,2020020815,Pittsburgh Penguins,Away,Philadelphia Flyers
+38,-74.0,11.0,Goal,74.0,-11.0,2020020826,Pittsburgh Penguins,Away,Philadelphia Flyers
+39,66.0,17.0,Goal,66.0,17.0,2020020826,Pittsburgh Penguins,Away,Philadelphia Flyers
+40,79.0,1.0,Goal,79.0,1.0,2020020842,Pittsburgh Penguins,Home,Buffalo Sabres
+41,-65.0,8.0,Goal,65.0,-8.0,2020030111,Pittsburgh Penguins,Home,New York Islanders
+42,79.0,1.0,Goal,79.0,1.0,2021020249,Pittsburgh Penguins,Away,Montréal Canadiens
+43,73.0,9.0,Goal,73.0,9.0,2021020319,Pittsburgh Penguins,Home,Montréal Canadiens
+44,83.0,6.0,Goal,83.0,6.0,2021020376,Pittsburgh Penguins,Away,Vancouver Canucks
+45,-86.0,6.0,Goal,86.0,-6.0,2021020387,Pittsburgh Penguins,Away,Seattle Kraken
+46,77.0,9.0,Goal,77.0,9.0,2021020597,Pittsburgh Penguins,Home,St. Louis Blues
+47,16.0,37.0,Goal,16.0,37.0,2021020688,Pittsburgh Penguins,Away,Vegas Golden Knights
+48,-81.0,6.0,Goal,81.0,-6.0,2021020707,Pittsburgh Penguins,Home,Ottawa Senators
+49,-85.0,6.0,Goal,85.0,-6.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
+50,-77.0,16.0,Goal,77.0,-16.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
+51,48.0,-39.0,Goal,48.0,-39.0,2021020716,Pittsburgh Penguins,Away,Columbus Blue Jackets
+52,77.0,1.0,Goal,77.0,1.0,2021020733,Pittsburgh Penguins,Home,Winnipeg Jets
+53,80.0,3.0,Goal,80.0,3.0,2021020747,Pittsburgh Penguins,Home,Arizona Coyotes
+54,-71.0,-4.0,Goal,71.0,4.0,2021020786,Pittsburgh Penguins,Home,Los Angeles Kings
+55,82.0,15.0,Goal,82.0,15.0,2021020523,Pittsburgh Penguins,Away,Boston Bruins
+56,86.0,-14.0,Goal,86.0,-14.0,2021020514,Pittsburgh Penguins,Home,Philadelphia Flyers
+57,-68.0,-17.0,Goal,68.0,17.0,2021021304,Pittsburgh Penguins,Home,Carolina Hurricanes
+58,-60.0,-17.0,Goal,60.0,17.0,2021020864,Pittsburgh Penguins,Away,Tampa Bay Lightning
+59,75.0,-3.0,Goal,75.0,-3.0,2021020876,Pittsburgh Penguins,Away,Carolina Hurricanes
+60,81.0,16.0,Goal,81.0,16.0,2021020906,Pittsburgh Penguins,Home,Florida Panthers
+61,-84.0,2.0,Goal,84.0,-2.0,2021020991,Pittsburgh Penguins,Away,Arizona Coyotes
+62,-81.0,-2.0,Goal,81.0,2.0,2021020991,Pittsburgh Penguins,Away,Arizona Coyotes
+63,66.0,16.0,Goal,66.0,16.0,2021021014,Pittsburgh Penguins,Away,Buffalo Sabres
+64,-80.0,-7.0,Goal,80.0,7.0,2021021050,Pittsburgh Penguins,Home,Detroit Red Wings
+65,45.0,14.0,Goal,45.0,14.0,2021021062,Pittsburgh Penguins,Home,New York Rangers
+66,-77.0,1.0,Goal,77.0,-1.0,2021021097,Pittsburgh Penguins,Away,Colorado Avalanche
