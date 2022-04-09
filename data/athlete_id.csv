@@ -1,0 +1,833 @@
+,fullName,id,position,position_code
+0,Jonathan Bernier,8473541,Goalie,G
+1,Mackenzie Blackwood,8478406,Goalie,G
+2,P.K. Subban,8474056,Defenseman,D
+3,Tomas Tatar,8475193,Left Wing,L
+4,Dougie Hamilton,8476462,Defenseman,D
+5,Jon Gillies,8476903,Goalie,G
+6,Jimmy Vesey,8476918,Left Wing,L
+7,Damon Severson,8476923,Defenseman,D
+8,Andrew Hammond,8477202,Goalie,G
+9,Andreas Johnsson,8477341,Left Wing,L
+10,Mason Geertsen,8477419,Defenseman,D
+11,Miles Wood,8477425,Left Wing,L
+12,Ryan Graves,8477435,Defenseman,D
+13,Jonas Siegenthaler,8478399,Defenseman,D
+14,Pavel Zacha,8478401,Center,C
+15,Colton White,8478841,Defenseman,D
+16,Jesper Bratt,8479407,Left Wing,L
+17,Nathan Bastian,8479414,Right Wing,R
+18,Michael McLeod,8479415,Center,C
+19,Janne Kuokkanen,8479511,Center,C
+20,Nico Hischier,8480002,Center,C
+21,Jesper Boqvist,8480003,Center,C
+22,Ty Smith,8480883,Defenseman,D
+23,Yegor Sharangovich,8481068,Center,C
+24,Jack Hughes,8481559,Center,C
+25,Nico Daws,8482076,Goalie,G
+26,Dawson Mercer,8482110,Center,C
+27,Zdeno Chara,8465009,Defenseman,D
+28,Zach Parise,8470610,Left Wing,L
+29,Andy Greene,8472382,Defenseman,D
+30,Cal Clutterbuck,8473504,Right Wing,R
+31,Semyon Varlamov,8473575,Goalie,G
+32,Josh Bailey,8474573,Right Wing,R
+33,Matt Martin,8474709,Left Wing,L
+34,Kyle Palmieri,8475151,Right Wing,R
+35,Casey Cizikas,8475231,Center,C
+36,Anders Lee,8475314,Left Wing,L
+37,Brock Nelson,8475754,Center,C
+38,Jean-Gabriel Pageau,8476419,Center,C
+39,Scott Mayfield,8476429,Defenseman,D
+40,Adam Pelech,8476917,Defenseman,D
+41,Ryan Pulock,8477506,Defenseman,D
+42,Ross Johnston,8477527,Left Wing,L
+43,Ilya Sorokin,8478009,Goalie,G
+44,Mathew Barzal,8478445,Center,C
+45,Anthony Beauvillier,8478463,Left Wing,L
+46,Kieffer Bellows,8479356,Left Wing,L
+47,Sebastian Aho,8480222,Defenseman,D
+48,Grant Hutton,8480306,Defenseman,D
+49,Oliver Wahlstrom,8480789,Right Wing,R
+50,Noah Dobson,8480865,Defenseman,D
+51,Sammy Blais,8478104,Left Wing,L
+52,Kevin Rooney,8479291,Center,C
+53,Kaapo Kakko,8481554,Right Wing,R
+54,Ryan Reaves,8471817,Right Wing,R
+55,Justin Braun,8474027,Defenseman,D
+56,Chris Kreider,8475184,Left Wing,L
+57,Greg McKegg,8475735,Center,C
+58,Patrik Nemeth,8475747,Defenseman,D
+59,Ryan Strome,8476458,Center,C
+60,Mika Zibanejad,8476459,Center,C
+61,Barclay Goodrow,8476624,Center,C
+62,Jacob Trouba,8476885,Defenseman,D
+63,Tyler Motte,8477353,Center,C
+64,Jonny Brodzinski,8477380,Center,C
+65,Andrew Copp,8477429,Center,C
+66,Igor Shesterkin,8478048,Goalie,G
+67,Dryden Hunt,8478211,Left Wing,L
+68,Frank Vatrano,8478366,Center,C
+69,Artemi Panarin,8478550,Left Wing,L
+70,Adam Fox,8479323,Defenseman,D
+71,Ryan Lindgren,8479324,Defenseman,D
+72,Julien Gauthier,8479328,Right Wing,R
+73,Libor Hajek,8479333,Defenseman,D
+74,Filip Chytil,8480078,Center,C
+75,Alexandar Georgiev,8480382,Goalie,G
+76,K'Andre Miller,8480817,Defenseman,D
+77,Braden Schneider,8482073,Defenseman,D
+78,Alexis Lafrenière,8482109,Left Wing,L
+79,Ryan Ellis,8475176,Defenseman,D
+80,Sean Couturier,8476461,Center,C
+81,Nate Thompson,8470775,Center,C
+82,Keith Yandle,8471735,Defenseman,D
+83,James van Riemsdyk,8474037,Left Wing,L
+84,Cam Atkinson,8474715,Right Wing,R
+85,Martin Jones,8474889,Goalie,G
+86,Kevin Connauton,8475246,Defenseman,D
+87,Kevin Hayes,8475763,Center,C
+88,Nick Seeler,8476372,Defenseman,D
+89,Scott Laughton,8476872,Center,C
+90,Rasmus Ristolainen,8477499,Defenseman,D
+91,Patrick Brown,8477887,Center,C
+92,Travis Sanheim,8477948,Defenseman,D
+93,Oskar Lindblom,8478067,Left Wing,L
+94,Travis Konecny,8478439,Right Wing,R
+95,Ivan Provorov,8478500,Defenseman,D
+96,Carter Hart,8479394,Goalie,G
+97,Zack MacEwen,8479772,Center,C
+98,Owen Tippett,8480015,Right Wing,R
+99,Morgan Frost,8480028,Center,C
+100,Noah Cates,8480220,Left Wing,L
+101,Joel Farabee,8480797,Left Wing,L
+102,Ronnie Attard,8481521,Defenseman,D
+103,Cam York,8481546,Defenseman,D
+104,Nathan Beaulieu,8476470,Defenseman,D
+105,Brock McGinn,8476934,Left Wing,L
+106,Jeff Carter,8470604,Center,C
+107,Brian Boyle,8470619,Center,C
+108,Evgeni Malkin,8471215,Center,C
+109,Sidney Crosby,8471675,Center,C
+110,Kris Letang,8471724,Defenseman,D
+111,Brian Dumoulin,8475208,Defenseman,D
+112,Jason Zucker,8475722,Left Wing,L
+113,Bryan Rust,8475810,Right Wing,R
+114,Rickard Rakell,8476483,Right Wing,R
+115,Mike Matheson,8476875,Defenseman,D
+116,Teddy Blueger,8476927,Center,C
+117,Chad Ruhwedel,8477244,Defenseman,D
+118,Jake Guentzel,8477404,Left Wing,L
+119,Tristan Jarry,8477465,Goalie,G
+120,Kasperi Kapanen,8477953,Right Wing,R
+121,Marcus Pettersson,8477969,Defenseman,D
+122,Mark Friedman,8478017,Defenseman,D
+123,Danton Heinen,8478046,Left Wing,L
+124,Anthony Angello,8478074,Right Wing,R
+125,John Marino,8478507,Defenseman,D
+126,Evan Rodrigues,8478542,Center,C
+127,Casey DeSmith,8479193,Goalie,G
+128,Filip Hallander,8480842,Center,C
+129,Radim Zohorna,8482241,Left Wing,L
+130,Jakub Zboril,8478415,Defenseman,D
+131,Patrice Bergeron,8470638,Center,C
+132,Brad Marchand,8473419,Left Wing,L
+133,Nick Foligno,8473422,Left Wing,L
+134,Craig Smith,8475225,Center,C
+135,Erik Haula,8475287,Left Wing,L
+136,Charlie Coyle,8475745,Center,C
+137,Derek Forbort,8475762,Defenseman,D
+138,Taylor Hall,8475791,Left Wing,L
+139,Mike Reilly,8476422,Defenseman,D
+140,Hampus Lindholm,8476854,Defenseman,D
+141,Matt Grzelcyk,8476891,Defenseman,D
+142,Linus Ullmark,8476999,Goalie,G
+143,Anton Blidh,8477320,Left Wing,L
+144,Connor Clifton,8477365,Defenseman,D
+145,Josh Brown,8477384,Defenseman,D
+146,Curtis Lazar,8477508,Center,C
+147,Tomas Nosek,8477931,Left Wing,L
+148,David Pastrnak,8477956,Right Wing,R
+149,Brandon Carlo,8478443,Defenseman,D
+150,Jake DeBrusk,8478498,Left Wing,L
+151,Charlie McAvoy,8479325,Defenseman,D
+152,Trent Frederic,8479365,Center,C
+153,Jack Studnicka,8480021,Center,C
+154,Jeremy Swayman,8480280,Goalie,G
+155,Marc McLaughlin,8483397,Center,C
+156,Malcolm Subban,8476876,Goalie,G
+157,Drake Caggiula,8479465,Center,C
+158,Craig Anderson,8467950,Goalie,G
+159,Kyle Okposo,8473449,Right Wing,R
+160,Dustin Tokarski,8474682,Goalie,G
+161,Cody Eakin,8475236,Center,C
+162,Jeff Skinner,8475784,Left Wing,L
+163,Mark Pysyk,8475796,Defenseman,D
+164,Colin Miller,8476525,Defenseman,D
+165,Zemgus Girgensons,8476878,Left Wing,L
+166,Vinnie Hinostroza,8476994,Center,C
+167,Will Butcher,8477355,Defenseman,D
+168,John Hayden,8477401,Center,C
+169,Alex Tuch,8477949,Right Wing,R
+170,Anders Bjork,8478075,Left Wing,L
+171,Victor Olofsson,8478109,Left Wing,L
+172,Rasmus Asplund,8479335,Center,C
+173,Tage Thompson,8479420,Right Wing,R
+174,Casey Fitzgerald,8479578,Defenseman,D
+175,Casey Mittelstadt,8479999,Center,C
+176,Henri Jokiharju,8480035,Defenseman,D
+177,Jacob Bryson,8480196,Defenseman,D
+178,Mattias Samuelsson,8480807,Defenseman,D
+179,Rasmus Dahlin,8480839,Defenseman,D
+180,Peyton Krebs,8481522,Center,C
+181,Dylan Cozens,8481528,Center,C
+182,Jonathan Drouin,8477494,Left Wing,L
+183,Shea Weber,8470642,Defenseman,D
+184,Carey Price,8471679,Goalie,G
+185,Jeff Petry,8473507,Defenseman,D
+186,Mathieu Perreault,8473618,Center,C
+187,Paul Byron,8474038,Left Wing,L
+188,Jake Allen,8474596,Goalie,G
+189,Mike Hoffman,8474884,Center,C
+190,Chris Wideman,8475227,Defenseman,D
+191,David Savard,8475233,Defenseman,D
+192,Tyler Pitlick,8475752,Center,C
+193,Brendan Gallagher,8475848,Right Wing,R
+194,Joel Edmundson,8476441,Defenseman,D
+195,Joel Armia,8476469,Right Wing,R
+196,Josh Anderson,8476981,Right Wing,R
+197,Laurent Dauphin,8477460,Center,C
+198,Christian Dvorak,8477989,Left Wing,L
+199,William Lagesson,8478021,Defenseman,D
+200,Jake Evans,8478133,Center,C
+201,Sam Montembeault,8478470,Goalie,G
+202,Kale Clague,8479348,Defenseman,D
+203,Rem Pitlick,8479514,Center,C
+204,Michael Pezzetta,8479543,Left Wing,L
+205,Nick Suzuki,8480018,Center,C
+206,Ryan Poehling,8480068,Center,C
+207,Jordan Harris,8480887,Defenseman,D
+208,Alexander Romanov,8481014,Defenseman,D
+209,Jesse Ylonen,8481058,Right Wing,R
+210,Corey Schueneman,8481461,Defenseman,D
+211,Cole Caufield,8481540,Right Wing,R
+212,Justin Barron,8482111,Defenseman,D
+213,Matt Murray,8476899,Goalie,G
+214,Thomas Chabot,8478469,Defenseman,D
+215,Shane Pinto,8481596,Center,C
+216,Nick Holden,8474207,Defenseman,D
+217,Michael Del Zotto,8474584,Defenseman,D
+218,Tyler Ennis,8474589,Right Wing,R
+219,Travis Hamonic,8474612,Defenseman,D
+220,Austin Watson,8475766,Left Wing,L
+221,Anton Forsberg,8476341,Goalie,G
+222,Chris Tierney,8476919,Center,C
+223,Connor Brown,8477015,Right Wing,R
+224,Colin White,8478400,Center,C
+225,Mathieu Joseph,8478472,Right Wing,R
+226,Adam Gaudette,8478874,Center,C
+227,Victor Mete,8479376,Defenseman,D
+228,Nikita Zaitsev,8479458,Defenseman,D
+229,Dylan Gambrell,8479580,Center,C
+230,Alex Formenton,8480029,Left Wing,L
+231,Josh Norris,8480064,Center,C
+232,Erik Brannstrom,8480073,Defenseman,D
+233,Drake Batherson,8480208,Right Wing,R
+234,Parker Kelly,8480448,Left Wing,L
+235,Brady Tkachuk,8480801,Left Wing,L
+236,Mads Sogaard,8481544,Goalie,G
+237,Jake Sanderson,8482105,Defenseman,D
+238,Tim Stützle,8482116,Left Wing,L
+239,Artem Zub,8482245,Defenseman,D
+240,Petr Mrazek,8475852,Goalie,G
+241,Ondrej Kase,8478131,Right Wing,R
+242,Rasmus Sandin,8480873,Defenseman,D
+243,Jason Spezza,8469455,Center,C
+244,Mark Giordano,8470966,Defenseman,D
+245,Jake Muzzin,8474162,Defenseman,D
+246,Wayne Simmonds,8474190,Right Wing,R
+247,TJ Brodie,8474673,Defenseman,D
+248,Kyle Clifford,8475160,Left Wing,L
+249,John Tavares,8475166,Center,C
+250,Justin Holl,8475718,Defenseman,D
+251,Jack Campbell,8475789,Goalie,G
+252,Colin Blackwell,8476278,Center,C
+253,Morgan Rielly,8476853,Defenseman,D
+254,Alexander Kerfoot,8477021,Center,C
+255,William Nylander,8477939,Right Wing,R
+256,Michael Bunting,8478047,Left Wing,L
+257,Pierre Engvall,8478115,Left Wing,L
+258,Mitchell Marner,8478483,Right Wing,R
+259,Erik Kallgren,8478902,Goalie,G
+260,Auston Matthews,8479318,Center,C
+261,Timothy Liljegren,8480043,Defenseman,D
+262,David Kampf,8480144,Center,C
+263,Ilya Lyubushkin,8480950,Defenseman,D
+264,Ilya Mikheyev,8481624,Right Wing,R
+265,Nicholas Abruzzese,8481720,Center,C
+266,Jordan Staal,8473533,Center,C
+267,Ian Cole,8474013,Defenseman,D
+268,Brendan Smith,8474090,Defenseman,D
+269,Derek Stepan,8474613,Center,C
+270,Nino Niederreiter,8475799,Right Wing,R
+271,Jesper Fast,8475855,Right Wing,R
+272,Frederik Andersen,8475883,Goalie,G
+273,Vincent Trocheck,8476389,Center,C
+274,Brady Skjei,8476869,Defenseman,D
+275,Teuvo Teravainen,8476882,Left Wing,L
+276,Jordan Martinook,8476921,Left Wing,L
+277,Jaccob Slavin,8476958,Defenseman,D
+278,Antti Raanta,8477293,Goalie,G
+279,Brett Pesce,8477488,Defenseman,D
+280,Max Domi,8477503,Center,C
+281,Tony DeAngelo,8477950,Defenseman,D
+282,Sebastian Aho,8478427,Center,C
+283,Ethan Bear,8478451,Defenseman,D
+284,Steven Lorentz,8478904,Center,C
+285,Martin Necas,8480039,Center,C
+286,Jesperi Kotkaniemi,8480829,Center,C
+287,Andrei Svechnikov,8480830,Right Wing,R
+288,Seth Jarvis,8482093,Center,C
+289,Aaron Ekblad,8477932,Defenseman,D
+290,Jonas Johansson,8477992,Goalie,G
+291,Markus Nutivaara,8478906,Defenseman,D
+292,Joe Thornton,8466138,Center,C
+293,Patric Hornqvist,8471887,Right Wing,R
+294,Claude Giroux,8473512,Right Wing,R
+295,Ben Chiarot,8475279,Defenseman,D
+296,Radko Gudas,8475462,Defenseman,D
+297,Sergei Bobrovsky,8475683,Goalie,G
+298,Jonathan Huberdeau,8476456,Left Wing,L
+299,Petteri Lindbohm,8476989,Defenseman,D
+300,MacKenzie Weegar,8477346,Defenseman,D
+301,Anthony Duclair,8477407,Left Wing,L
+302,Carter Verhaeghe,8477409,Center,C
+303,Robert Hagg,8477462,Defenseman,D
+304,Aleksander Barkov,8477493,Center,C
+305,Sam Reinhart,8477933,Center,C
+306,Sam Bennett,8477935,Center,C
+307,Brandon Montour,8477986,Defenseman,D
+308,Gustav Forsling,8478055,Defenseman,D
+309,Noel Acciari,8478569,Center,C
+310,Mason Marchment,8478975,Left Wing,L
+311,Ryan Lomberg,8479066,Left Wing,L
+312,Lucas Carlsson,8479523,Defenseman,D
+313,Maxim Mamin,8479553,Center,C
+314,Eetu Luostarinen,8480185,Center,C
+315,Spencer Knight,8481519,Goalie,G
+316,Anton Lundell,8482113,Center,C
+317,Corey Perry,8470621,Right Wing,R
+318,Brian Elliott,8470880,Goalie,G
+319,Alex Killorn,8473986,Left Wing,L
+320,Pat Maroon,8474034,Left Wing,L
+321,Ryan McDonagh,8474151,Defenseman,D
+322,Steven Stamkos,8474564,Center,C
+323,Zach Bogosian,8474567,Defenseman,D
+324,Victor Hedman,8475167,Defenseman,D
+325,Ondrej Palat,8476292,Left Wing,L
+326,Nikita Kucherov,8476453,Right Wing,R
+327,Andrei Vasilevskiy,8476883,Goalie,G
+328,Nicholas Paul,8477426,Left Wing,L
+329,Pierre-Edouard Bellemare,8477930,Left Wing,L
+330,Brayden Point,8478010,Center,C
+331,Erik Cernak,8478416,Defenseman,D
+332,Anthony Cirelli,8478519,Center,C
+333,Mikhail Sergachev,8479410,Defenseman,D
+334,Ross Colton,8479525,Center,C
+335,Brandon Hagel,8479542,Left Wing,L
+336,Cal Foote,8479984,Defenseman,D
+337,Jan Rutta,8480172,Defenseman,D
+338,Carl Hagelin,8474176,Left Wing,L
+339,Joe Snively,8481441,Center,C
+340,Alex Ovechkin,8471214,Left Wing,L
+341,T.J. Oshie,8471698,Right Wing,R
+342,Nicklas Backstrom,8473563,Center,C
+343,Lars Eller,8474189,Center,C
+344,John Carlson,8474590,Defenseman,D
+345,Justin Schultz,8474602,Defenseman,D
+346,Marcus Johansson,8475149,Left Wing,L
+347,Dmitry Orlov,8475200,Defenseman,D
+348,Nick Jensen,8475324,Defenseman,D
+349,Nic Dowd,8475343,Center,C
+350,Matt Irwin,8475625,Defenseman,D
+351,Johan Larsson,8475728,Left Wing,L
+352,Evgeny Kuznetsov,8475744,Center,C
+353,Tom Wilson,8476880,Right Wing,R
+354,Anthony Mantha,8477511,Right Wing,R
+355,Conor Sheary,8477839,Left Wing,L
+356,Trevor van Riemsdyk,8477845,Defenseman,D
+357,Garnet Hathaway,8477903,Right Wing,R
+358,Vitek Vanecek,8477970,Goalie,G
+359,Ilya Samsonov,8478492,Goalie,G
+360,Michal Kempny,8479482,Defenseman,D
+361,Axel Jonsson-Fjallby,8479536,Left Wing,L
+362,Martin Fehervary,8480796,Defenseman,D
+363,Connor McMichael,8481580,Center,C
+364,Connor Murphy,8476473,Defenseman,D
+365,Jujhar Khaira,8476915,Left Wing,L
+366,Jonathan Toews,8473604,Center,C
+367,Patrick Kane,8474141,Right Wing,R
+368,Tyler Johnson,8474870,Center,C
+369,Calvin de Haan,8475177,Defenseman,D
+370,Jake McCabe,8476931,Defenseman,D
+371,Erik Gustafsson,8476979,Defenseman,D
+372,Dominik Kubalik,8477330,Left Wing,L
+373,Seth Jones,8477495,Defenseman,D
+374,Sam Lafferty,8478043,Center,C
+375,Dylan Strome,8478440,Center,C
+376,Caleb Jones,8478452,Defenseman,D
+377,Alex DeBrincat,8479337,Left Wing,L
+378,Boris Katchouk,8479383,Left Wing,L
+379,Riley Stillman,8479388,Defenseman,D
+380,Taylor Raddysh,8479390,Right Wing,R
+381,Henrik Borgstrom,8479404,Center,C
+382,MacKenzie Entwistle,8480025,Right Wing,R
+383,Collin Delia,8480420,Goalie,G
+384,Philipp Kurashev,8480798,Center,C
+385,Kevin Lankinen,8480947,Goalie,G
+386,Reese Johnson,8481147,Center,C
+387,Kirby Dach,8481523,Center,C
+388,Alex Vlasic,8481568,Defenseman,D
+389,Lukas Reichel,8482117,Left Wing,L
+390,Carter Rowney,8477240,Center,C
+391,Robby Fabbri,8477952,Center,C
+392,Mitchell Stephens,8478477,Center,C
+393,Thomas Greiss,8471306,Goalie,G
+394,Marc Staal,8471686,Defenseman,D
+395,Sam Gagner,8474040,Center,C
+396,Calvin Pickard,8475717,Goalie,G
+397,Oskar Sundqvist,8476897,Center,C
+398,Danny DeKeyser,8477215,Defenseman,D
+399,Adam Erne,8477454,Left Wing,L
+400,Tyler Bertuzzi,8477479,Left Wing,L
+401,Jordan Oesterle,8477851,Defenseman,D
+402,Jakub Vrana,8477944,Left Wing,L
+403,Dylan Larkin,8477946,Center,C
+404,Alex Nedeljkovic,8477968,Goalie,G
+405,Jake Walman,8478013,Defenseman,D
+406,Olli Juolevi,8479355,Defenseman,D
+407,Givani Smith,8479379,Right Wing,R
+408,Filip Hronek,8479425,Defenseman,D
+409,Michael Rasmussen,8479992,Center,C
+410,Gustav Lindstrom,8480184,Defenseman,D
+411,Pius Suter,8480459,Center,C
+412,Joe Veleno,8480813,Center,C
+413,Filip Zadina,8480821,Right Wing,R
+414,Taro Hirose,8481433,Left Wing,L
+415,Moritz Seider,8481542,Defenseman,D
+416,Lucas Raymond,8482078,Left Wing,L
+417,Roman Josi,8474600,Defenseman,D
+418,Mark Borowiecki,8474697,Defenseman,D
+419,Matt Duchene,8475168,Center,C
+420,Mattias Ekholm,8475218,Defenseman,D
+421,Ryan Johansen,8475793,Center,C
+422,Mikael Granlund,8475798,Center,C
+423,Nick Cousins,8476393,Center,C
+424,Matt Tennyson,8476807,Defenseman,D
+425,Filip Forsberg,8476887,Left Wing,L
+426,Colton Sissons,8476925,Center,C
+427,Matt Benning,8476988,Defenseman,D
+428,Juuse Saros,8477424,Goalie,G
+429,Ben Harpur,8477433,Defenseman,D
+430,Michael McCarron,8477446,Right Wing,R
+431,Jeremy Lauzon,8478468,Defenseman,D
+432,Yakov Trenin,8478508,Center,C
+433,Alexandre Carrier,8478851,Defenseman,D
+434,Luke Kunin,8479316,Center,C
+435,Dante Fabbro,8479371,Defenseman,D
+436,David Rittich,8479496,Goalie,G
+437,Matt Luff,8479644,Right Wing,R
+438,Tanner Jeannot,8479661,Left Wing,L
+439,Eeli Tolvanen,8480009,Right Wing,R
+440,Philip Tomasino,8481577,Center,C
+441,Tyler Bozak,8475098,Center,C
+442,David Perron,8474102,Left Wing,L
+443,Robert Bortuzzo,8474145,Defenseman,D
+444,Marco Scandella,8474618,Defenseman,D
+445,Ryan O'Reilly,8475158,Center,C
+446,Brayden Schenn,8475170,Center,C
+447,Nick Leddy,8475181,Defenseman,D
+448,Justin Faulk,8475753,Defenseman,D
+449,Vladimir Tarasenko,8475765,Right Wing,R
+450,Jordan Binnington,8476412,Goalie,G
+451,Brandon Saad,8476438,Left Wing,L
+452,Torey Krug,8476792,Defenseman,D
+453,Colton Parayko,8476892,Defenseman,D
+454,Mackenzie MacEachern,8476907,Left Wing,L
+455,Pavel Buchnevich,8477402,Left Wing,L
+456,Nathan Walker,8477573,Left Wing,L
+457,Ivan Barbashev,8477964,Center,C
+458,Ville Husso,8478024,Goalie,G
+459,Niko Mikkola,8478859,Defenseman,D
+460,Logan Brown,8479366,Center,C
+461,Jordan Kyrou,8479385,Center,C
+462,Robert Thomas,8480023,Center,C
+463,Calle Rosen,8480157,Defenseman,D
+464,Alexei Toropchenko,8480281,Right Wing,R
+465,Sean Monahan,8477497,Center,C
+466,Juuso Valimaki,8479976,Defenseman,D
+467,Trevor Lewis,8473453,Center,C
+468,Milan Lucic,8473473,Left Wing,L
+469,Mikael Backlund,8474150,Center,C
+470,Jacob Markstrom,8474593,Goalie,G
+471,Michael Stone,8474628,Defenseman,D
+472,Christopher Tanev,8475690,Defenseman,D
+473,Calle Jarnkrok,8475714,Center,C
+474,Tyler Toffoli,8475726,Right Wing,R
+475,Erik Gudbranson,8475790,Defenseman,D
+476,Johnny Gaudreau,8476346,Left Wing,L
+477,Blake Coleman,8476399,Center,C
+478,Brett Ritchie,8476439,Right Wing,R
+479,Elias Lindholm,8477496,Center,C
+480,Nikita Zadorov,8477507,Defenseman,D
+481,Ryan Carpenter,8477846,Center,C
+482,Andrew Mangiapane,8478233,Left Wing,L
+483,Noah Hanifin,8478396,Defenseman,D
+484,Rasmus Andersson,8478397,Defenseman,D
+485,Oliver Kylington,8478430,Defenseman,D
+486,Dan Vladar,8478435,Goalie,G
+487,Matthew Tkachuk,8479314,Left Wing,L
+488,Dillon Dube,8479346,Center,C
+489,Adam Ruzicka,8480008,Center,C
+490,Connor Mackey,8482067,Defenseman,D
+491,Jack Johnson,8471677,Defenseman,D
+492,Andrew Cogliano,8471699,Center,C
+493,Darren Helm,8471794,Center,C
+494,Erik Johnson,8473446,Defenseman,D
+495,Nazem Kadri,8475172,Center,C
+496,Darcy Kuemper,8475311,Goalie,G
+497,Josh Manson,8476312,Defenseman,D
+498,Gabriel Landeskog,8476455,Left Wing,L
+499,Ryan Murray,8476850,Defenseman,D
+500,Kurtis MacDermid,8477073,Defenseman,D
+501,Andre Burakovsky,8477444,Left Wing,L
+502,J.T. Compher,8477456,Left Wing,L
+503,Artturi Lehkonen,8477476,Left Wing,L
+504,Nathan MacKinnon,8477492,Center,C
+505,Valeri Nichushkin,8477501,Right Wing,R
+506,Nicolas Aube-Kubel,8477979,Right Wing,R
+507,Devon Toews,8478038,Defenseman,D
+508,Mikko Rantanen,8478420,Right Wing,R
+509,Samuel Girard,8479398,Defenseman,D
+510,Cale Makar,8480069,Defenseman,D
+511,Pavel Francouz,8480925,Goalie,G
+512,Logan O'Connor,8481186,Right Wing,R
+513,Nico Sturm,8481477,Center,C
+514,Bowen Byram,8481524,Defenseman,D
+515,Alex Newhook,8481618,Center,C
+516,Kyle Turris,8474068,Center,C
+517,Josh Archibald,8476326,Right Wing,R
+518,Mike Smith,8469608,Goalie,G
+519,Duncan Keith,8470281,Defenseman,D
+520,Kris Russell,8471729,Defenseman,D
+521,Derick Brassard,8473544,Center,C
+522,Mikko Koskinen,8475156,Goalie,G
+523,Evander Kane,8475169,Left Wing,L
+524,Zack Kassian,8475178,Right Wing,R
+525,Tyson Barrie,8475197,Defenseman,D
+526,Zach Hyman,8475786,Left Wing,L
+527,Ryan Nugent-Hopkins,8476454,Center,C
+528,Cody Ceci,8476879,Defenseman,D
+529,Devin Shore,8476913,Center,C
+530,Brett Kulak,8476967,Defenseman,D
+531,Darnell Nurse,8477498,Defenseman,D
+532,Leon Draisaitl,8477934,Center,C
+533,Warren Foegele,8477998,Left Wing,L
+534,Connor McDavid,8478402,Center,C
+535,Derek Ryan,8478585,Center,C
+536,Jesse Puljujarvi,8479344,Right Wing,R
+537,Kailer Yamamoto,8479977,Right Wing,R
+538,Ryan McLeod,8480802,Center,C
+539,Evan Bouchard,8480803,Defenseman,D
+540,Kyle Burroughs,8477335,Defenseman,D
+541,Nils Hoglander,8481535,Left Wing,L
+542,Madison Bowey,8477474,Defenseman,D
+543,Brad Richardson,8470755,Right Wing,R
+544,Jaroslav Halak,8470860,Goalie,G
+545,Luke Schenn,8474568,Defenseman,D
+546,Tyler Myers,8474574,Defenseman,D
+547,Alex Chiasson,8475163,Right Wing,R
+548,Oliver Ekman-Larsson,8475171,Defenseman,D
+549,J.T. Miller,8476468,Center,C
+550,Brad Hunt,8476779,Defenseman,D
+551,Tanner Pearson,8476871,Left Wing,L
+552,Tucker Poolman,8477359,Defenseman,D
+553,Jason Dickinson,8477450,Center,C
+554,Nic Petan,8477464,Center,C
+555,Bo Horvat,8477500,Center,C
+556,Thatcher Demko,8477967,Goalie,G
+557,Juho Lammikko,8477996,Left Wing,L
+558,Matthew Highmore,8478146,Center,C
+559,Travis Dermott,8478408,Defenseman,D
+560,Brock Boeser,8478444,Right Wing,R
+561,Conor Garland,8478856,Right Wing,R
+562,William Lockwood,8479367,Right Wing,R
+563,Elias Pettersson,8480012,Center,C
+564,Jack Rathbone,8480056,Defenseman,D
+565,Quinn Hughes,8480800,Defenseman,D
+566,Vasily Podkolzin,8481617,Right Wing,R
+567,Jakob Silfverberg,8475164,Right Wing,R
+568,Max Jones,8479368,Left Wing,L
+569,Ryan Getzlaf,8470612,Center,C
+570,Kevin Shattenkirk,8474031,Defenseman,D
+571,Adam Henrique,8474641,Center,C
+572,Derek Grant,8474683,Center,C
+573,Cam Fowler,8475764,Defenseman,D
+574,Sam Carrick,8475842,Center,C
+575,John Gibson,8476434,Goalie,G
+576,Anthony Stolarz,8476932,Goalie,G
+577,Andrej Sustr,8477205,Defenseman,D
+578,Sonny Milano,8477947,Left Wing,L
+579,Dominik Simon,8478866,Center,C
+580,Troy Terry,8478873,Right Wing,R
+581,Sam Steel,8479351,Center,C
+582,Josh Mahura,8479372,Defenseman,D
+583,Gerry Mayhew,8479933,Center,C
+584,Zach Aston-Reese,8479944,Center,C
+585,Vinni Lettieri,8479968,Center,C
+586,Urho Vaakanainen,8480001,Defenseman,D
+587,Max Comtois,8480031,Left Wing,L
+588,Isac Lundestrom,8480806,Center,C
+589,Simon Benoit,8481122,Defenseman,D
+590,Trevor Zegras,8481533,Center,C
+591,Jamie Drysdale,8482142,Defenseman,D
+592,Braden Holtby,8474651,Goalie,G
+593,Ryan Suter,8470600,Defenseman,D
+594,Joe Pavelski,8470794,Center,C
+595,Alexander Radulov,8471228,Right Wing,R
+596,Andrej Sekera,8471284,Defenseman,D
+597,Jamie Benn,8473994,Left Wing,L
+598,Tyler Seguin,8475794,Center,C
+599,Scott Wedgewood,8475809,Goalie,G
+600,Jani Hakanpaa,8475825,Defenseman,D
+601,John Klingberg,8475906,Defenseman,D
+602,Vladislav Namestnikov,8476480,Center,C
+603,Luke Glendening,8476822,Center,C
+604,Radek Faksa,8476889,Center,C
+605,Esa Lindell,8476902,Defenseman,D
+606,Michael Raffl,8477290,Left Wing,L
+607,Joel Hanley,8477810,Defenseman,D
+608,Roope Hintz,8478449,Center,C
+609,Denis Gurianov,8478495,Right Wing,R
+610,Jake Oettinger,8479979,Goalie,G
+611,Jason Robertson,8480027,Left Wing,L
+612,Miro Heiskanen,8480036,Defenseman,D
+613,Jacob Peterson,8480216,Center,C
+614,Marian Studenic,8480226,Left Wing,L
+615,Thomas Harley,8481581,Defenseman,D
+616,Joel Kiviranta,8481641,Left Wing,L
+617,Dustin Brown,8470606,Right Wing,R
+618,Drew Doughty,8474563,Defenseman,D
+619,Andreas Athanasiou,8476960,Center,C
+620,Brendan Lemieux,8477962,Left Wing,L
+621,Matt Roy,8478911,Defenseman,D
+622,Mikey Anderson,8479998,Defenseman,D
+623,Sean Walker,8480336,Defenseman,D
+624,Alexander Edler,8471303,Defenseman,D
+625,Anze Kopitar,8471685,Center,C
+626,Jonathan Quick,8471734,Goalie,G
+627,Phillip Danault,8476479,Center,C
+628,Olli Maatta,8476874,Defenseman,D
+629,Cal Petersen,8477361,Goalie,G
+630,Adrian Kempe,8477960,Center,C
+631,Viktor Arvidsson,8478042,Left Wing,L
+632,Carl Grundstrom,8479336,Right Wing,R
+633,Jacob Moverare,8479421,Defenseman,D
+634,Troy Stecher,8479442,Defenseman,D
+635,Trevor Moore,8479675,Center,C
+636,Lias Andersson,8480072,Center,C
+637,Alex Iafallo,8480113,Left Wing,L
+638,Sean Durzi,8480434,Defenseman,D
+639,Rasmus Kupari,8480845,Center,C
+640,Blake Lizotte,8481481,Center,C
+641,Arthur Kaliyev,8481560,Right Wing,R
+642,Tobias Bjornfot,8481600,Defenseman,D
+643,Jordan Spence,8481606,Defenseman,D
+644,Quinton Byfield,8482124,Center,C
+645,Kevin Labanc,8478099,Right Wing,R
+646,Brent Burns,8470613,Defenseman,D
+647,Marc-Edouard Vlasic,8471709,Defenseman,D
+648,James Reimer,8473503,Goalie,G
+649,Nick Bonino,8474009,Center,C
+650,Logan Couture,8474053,Center,C
+651,Erik Karlsson,8474578,Defenseman,D
+652,Matt Nieto,8476442,Left Wing,L
+653,Tomas Hertl,8476881,Center,C
+654,Jaycob Megna,8477034,Defenseman,D
+655,Kaapo Kahkonen,8478039,Goalie,G
+656,Timo Meier,8478414,Right Wing,R
+657,Nicolas Meloche,8478467,Defenseman,D
+658,Adin Hill,8478499,Goalie,G
+659,Rudolfs Balcers,8478870,Left Wing,L
+660,Jonathan Dahlen,8479373,Center,C
+661,Noah Gregor,8479393,Center,C
+662,Jeffrey Viel,8479705,Left Wing,L
+663,Jonah Gadjovich,8479981,Left Wing,L
+664,Mario Ferraro,8479983,Defenseman,D
+665,Sasha Chmelevski,8480053,Center,C
+666,Scott Reedy,8480060,Center,C
+667,Radim Simek,8480160,Defenseman,D
+668,Ryan Merkley,8480847,Defenseman,D
+669,John Leonard,8481077,Left Wing,L
+670,Alexander Barabanov,8482222,Left Wing,L
+671,Boone Jenner,8476432,Center,C
+672,Alexandre Texier,8480074,Center,C
+673,Daniil Tarasov,8480193,Goalie,G
+674,Jakub Voracek,8474161,Right Wing,R
+675,Gustav Nyquist,8474679,Center,C
+676,J-F Berube,8475234,Goalie,G
+677,Sean Kuraly,8476374,Center,C
+678,Brendan Gaunce,8476867,Center,C
+679,Joonas Korpisalo,8476914,Goalie,G
+680,Oliver Bjorkstrand,8477416,Right Wing,R
+681,Elvis Merzlikins,8478007,Goalie,G
+682,Jack Roslovic,8478458,Center,C
+683,Zach Werenski,8478460,Defenseman,D
+684,Gabriel Carlsson,8478506,Defenseman,D
+685,Dean Kukan,8478567,Defenseman,D
+686,Vladislav Gavrikov,8478882,Defenseman,D
+687,Patrik Laine,8479339,Left Wing,L
+688,Andrew Peeke,8479369,Defenseman,D
+689,Jake Bean,8479402,Defenseman,D
+690,Justin Danforth,8479941,Right Wing,R
+691,Gavin Bayreuther,8479945,Defenseman,D
+692,Emil Bemstrom,8480205,Center,C
+693,Carson Meyer,8480292,Right Wing,R
+694,Eric Robinson,8480762,Left Wing,L
+695,Adam Boqvist,8480871,Defenseman,D
+696,Jake Christiansen,8481161,Defenseman,D
+697,Yegor Chinakhov,8482475,Right Wing,R
+698,Cole Sillinger,8482705,Center,C
+699,Marc-Andre Fleury,8470594,Goalie,G
+700,Alex Goligoski,8471274,Defenseman,D
+701,Jared Spurgeon,8474716,Defenseman,D
+702,Jordie Benn,8474818,Defenseman,D
+703,Dmitry Kulikov,8475179,Defenseman,D
+704,Marcus Foligno,8475220,Left Wing,L
+705,Nicolas Deslauriers,8475235,Left Wing,L
+706,Cam Talbot,8475660,Goalie,G
+707,Mats Zuccarello,8475692,Right Wing,R
+708,Jon Merrill,8475750,Defenseman,D
+709,Nick Bjugstad,8475760,Center,C
+710,Jonas Brodin,8476463,Defenseman,D
+711,Matt Dumba,8476856,Defenseman,D
+712,Ryan Hartman,8477451,Right Wing,R
+713,Frederick Gaudreau,8477919,Center,C
+714,Kevin Fiala,8477942,Left Wing,L
+715,Jacob Middleton,8478136,Defenseman,D
+716,Jordan Greenway,8478413,Left Wing,L
+717,Joel Eriksson Ek,8478493,Center,C
+718,Kirill Kaprizov,8478864,Left Wing,L
+719,Tyson Jost,8479370,Center,C
+720,Brandon Duhaime,8479520,Right Wing,R
+721,Matt Boldy,8481557,Left Wing,L
+722,Cole Perfetti,8482149,Center,C
+723,CJ Suess,8478058,Left Wing,L
+724,Kristian Vesalainen,8480005,Left Wing,L
+725,Dylan Samberg,8480049,Defenseman,D
+726,Blake Wheeler,8471218,Right Wing,R
+727,Paul Stastny,8471669,Center,C
+728,Brenden Dillon,8475455,Defenseman,D
+729,Dylan DeMelo,8476331,Defenseman,D
+730,Adam Lowry,8476392,Center,C
+731,Mark Scheifele,8476460,Center,C
+732,Connor Hellebuyck,8476945,Goalie,G
+733,Dominic Toninato,8476952,Center,C
+734,Nate Schmidt,8477220,Defenseman,D
+735,Eric Comrie,8477480,Goalie,G
+736,Zach Sanford,8477482,Left Wing,L
+737,Josh Morrissey,8477504,Defenseman,D
+738,Nikolaj Ehlers,8477940,Left Wing,L
+739,Kyle Connor,8478398,Left Wing,L
+740,Jansen Harkins,8478424,Center,C
+741,Evgeny Svechnikov,8478431,Left Wing,L
+742,Mason Appleton,8478891,Center,C
+743,Adam Brooks,8478996,Center,C
+744,Logan Stanley,8479378,Defenseman,D
+745,Pierre-Luc Dubois,8479400,Left Wing,L
+746,Neal Pionk,8480145,Defenseman,D
+747,Morgan Barron,8480289,Center,C
+748,Ville Heinola,8481572,Defenseman,D
+749,Antoine Roussel,8474849,Left Wing,L
+750,Dmitrij Jaskin,8476436,Right Wing,R
+751,Liam O'Brien,8477070,Center,C
+752,Conor Timmins,8479982,Defenseman,D
+753,Hudson Fasching,8477392,Right Wing,R
+754,Ivan Prosvetov,8481031,Goalie,G
+755,Loui Eriksson,8470626,Left Wing,L
+756,Andrew Ladd,8471217,Left Wing,L
+757,Anton Stralman,8471873,Defenseman,D
+758,Phil Kessel,8473548,Right Wing,R
+759,Jay Beagle,8474291,Center,C
+760,Harri Sateri,8474667,Goalie,G
+761,Travis Boyd,8476329,Center,C
+762,Alex Galchenyuk,8476851,Center,C
+763,Shayne Gostisbehere,8476906,Defenseman,D
+764,Nick Ritchie,8477941,Left Wing,L
+765,Nick Schmaltz,8477951,Center,C
+766,Dysin Mayo,8478062,Defenseman,D
+767,Christian Fischer,8478432,Right Wing,R
+768,Lawson Crouse,8478474,Left Wing,L
+769,Kyle Capobianco,8478476,Defenseman,D
+770,Karel Vejmelka,8478872,Goalie,G
+771,Cam Dineen,8479341,Defenseman,D
+772,Clayton Keller,8479343,Right Wing,R
+773,Jakob Chychrun,8479345,Defenseman,D
+774,Michael Carcone,8479619,Left Wing,L
+775,Barrett Hayton,8480849,Center,C
+776,Jack McBain,8480855,Center,C
+777,Vladislav Kolyachonok,8481609,Defenseman,D
+778,Matias Maccelli,8481711,Left Wing,L
+779,J.J. Moser,8482655,Defenseman,D
+780,Max Pacioretty,8474157,Left Wing,L
+781,Reilly Smith,8475191,Right Wing,R
+782,Mark Stone,8475913,Right Wing,R
+783,Evgenii Dadonov,8474149,Right Wing,R
+784,Alec Martinez,8474166,Defenseman,D
+785,Alex Pietrangelo,8474565,Defenseman,D
+786,Brayden McNabb,8475188,Defenseman,D
+787,Robin Lehner,8475215,Goalie,G
+788,Laurent Brossoit,8476316,Goalie,G
+789,William Karlsson,8476448,Center,C
+790,Jonathan Marchessault,8476539,Center,C
+791,Chandler Stephenson,8476905,Center,C
+792,Ben Hutton,8477018,Defenseman,D
+793,Mattias Janmark,8477406,Center,C
+794,Shea Theodore,8477447,Defenseman,D
+795,William Carrier,8477478,Left Wing,L
+796,Michael Amadio,8478020,Center,C
+797,Jack Eichel,8478403,Center,C
+798,Keegan Kolesar,8478434,Right Wing,R
+799,Nicolas Roy,8478462,Center,C
+800,Brett Howden,8479353,Center,C
+801,Dylan Coghlan,8479639,Defenseman,D
+802,Nolan Patrick,8479974,Center,C
+803,Nicolas Hague,8479980,Defenseman,D
+804,Jake Leschyshyn,8479991,Center,C
+805,Jonas Rondbjerg,8480007,Right Wing,R
+806,Logan Thompson,8480313,Goalie,G
+807,Zach Whitecloud,8480727,Defenseman,D
+808,Brandon Tanev,8479293,Left Wing,L
+809,Jordan Eberle,8474586,Right Wing,R
+810,Jaden Schwartz,8475768,Center,C
+811,Riley Sheahan,8475772,Center,C
+812,Joonas Donskoi,8475820,Right Wing,R
+813,Philipp Grubauer,8475831,Goalie,G
+814,Victor Rask,8476437,Center,C
+815,Adam Larsson,8476457,Defenseman,D
+816,Jamie Oleksiak,8476467,Defenseman,D
+817,Yanni Gourde,8476826,Center,C
+818,Derrick Pouliot,8476884,Defenseman,D
+819,Chris Driedger,8476904,Goalie,G
+820,Carson Soucy,8477369,Defenseman,D
+821,Alex Wennberg,8477505,Center,C
+822,Haydn Fleury,8477938,Defenseman,D
+823,Jared McCann,8477955,Left Wing,L
+824,Ryan Donato,8477987,Center,C
+825,Vince Dunn,8478407,Defenseman,D
+826,Daniel Sprong,8478466,Right Wing,R
+827,Will Borgen,8478840,Defenseman,D
+828,Cale Fleury,8479985,Defenseman,D
+829,Kole Lind,8479986,Right Wing,R
+830,Morgan Geekie,8479987,Center,C
+831,Karson Kuhlman,8480901,Center,C
