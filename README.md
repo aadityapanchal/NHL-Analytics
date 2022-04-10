@@ -1,28 +1,22 @@
-### Features Included:
-1)  Home_Team - home team
-2)  away_team - guest team
-3)  TOI – amount of time played in the game.
-4)  FF – Total of Fenwick for the selected team. (Fenwick: Number of unblocked shot attempts. (goals, shots on net and misses))
-5)  FA – Total Fenwick against the selected team.
-6)  FF% - Percentage of fenwick for the selected team. FF*100/(FF+FA)
-7)  CF – Total Corsi for the selected team. (Corsi: Total number of shot attempts. (goals, shots on net, misses and blocks))
-8)  CA – Total Corsi against the against the selected team.
-9)  CF% - Percentage of total corsi fo the selected team. CF*100/(CF+CA)
-10)  GF – Count of goals for the selected team.
-11)  GA – Count of goals against that team.
-12) xGF – Expected GF for the selected team.
-13) GF% - Percentage of total goals for the selected team. GF*100/(GF+GA)
-14) SF – Count of shots for the selected team (goals and shots on net only)
-15) SA – Count of shots against the team.
-16) SF% - Percentage of total shos for the selected team SF*100/(SF+SA)
-17) SVA – Scoring & Venue Adjsuted – Match where both teams have same number of players on ice,  with the event counts adjusted for home ice advantage and leading or trailing score effects. 
-18) PP- Power Play- Play where the selected team has more players, Includes 5v4, 5v3, 4v3.
-19) PK – Penalty Kill – Play where selected team has fewer players than their opponent, Includes 4v5, 3v4, 3v5.
-20) HDCF – High density scoring chances for the selected team. (Includes shot attepts inside defensive zone and immediate shot attempt after a failed attempt)
-21) HDCA – High density scoring chances for the opponent team.
-22) HDGF – Goals generated from a high-density scoring chance.
-23) HDCSV – (HDCA – HDGA)/HDCA
-24) GSAx – xGA-GA
-25) GSAX – GSAx*60/TOI
-26) SFGF% - (GF/SF)*100
+# CMPT733 - NHL Analytics
+
+# CMPT733 - Big Data Project.
+
+### Team Members: Aditya Bhadreshkumar Panchal, Divye Maheshwari, Hemang Bhanushali, Priyanka Manam, Rohit Irvisetty
+
+### Description
+
+
+### Main Datasets
+1) Game Stats for each game from season 2015-2016 to 2020-2021
+   https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021}
+2) 
+
+
+
+### Tech stack used
+
+
+
+### Dashboard Link
 
