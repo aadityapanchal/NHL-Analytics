@@ -26,11 +26,13 @@ performance.
 
 **Prediction_Modeling.ipynb**: This notebook models and tests the accuracy of game prediction model.
 
-**NHL-Shots-Data-Analysis.ipynb**:
+**NHL-Shots-Data-Analysis.ipynb**: 
 
 **Tweet_Sentiment_analysis.ipynb**: This notebook is for analysing fans' sentiments and opinions towards a team using tweets fetched from Twitter.
 
-**fight-analysis.ipynb**: 
+**fight-analysis.ipynb**: In this notebook, we have analyzed the relationship between game outcomes like goal scoring, puck possession, unblocked shot attempts, match-winning, etc., with fights between players of different teams. 
+
+Further, we have also compared and performed a correlation analysis between teams' performance in the following two matches after they fought in their previous game to understand the psychological impact of a fistfight on the team.
 
 ### Dashboard Link
 Tableau Dashboard:
