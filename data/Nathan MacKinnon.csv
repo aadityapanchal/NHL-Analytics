@@ -1,0 +1,97 @@
+,coor_x,coor_y,event_type,coor_x_normalized,coor_y_normalized,game_id,shooting_team,shooting_team_home_or_away,shot_goal_defending_team
+0,-87.0,0.0,Goal,87.0,-0.0,2019020056,Colorado Avalanche,Home,Boston Bruins
+1,55.0,-31.0,Goal,55.0,-31.0,2019020083,Colorado Avalanche,Away,Washington Capitals
+2,-77.0,4.0,Goal,77.0,-4.0,2019020092,Colorado Avalanche,Away,Pittsburgh Penguins
+3,-56.0,-13.0,Goal,56.0,13.0,2019020107,Colorado Avalanche,Away,Florida Panthers
+4,-33.0,-1.0,Goal,33.0,1.0,2019020131,Colorado Avalanche,Away,St. Louis Blues
+5,-34.0,-11.0,Goal,34.0,11.0,2019020191,Colorado Avalanche,Home,Florida Panthers
+6,62.0,15.0,Goal,62.0,15.0,2019020201,Colorado Avalanche,Home,Dallas Stars
+7,-53.0,-2.0,Goal,53.0,2.0,2019020244,Colorado Avalanche,Home,Nashville Predators
+8,63.0,4.0,Goal,63.0,4.0,2019020276,Colorado Avalanche,Away,Winnipeg Jets
+9,73.0,0.0,Goal,73.0,0.0,2019020276,Colorado Avalanche,Away,Winnipeg Jets
+10,-50.0,-25.0,Goal,50.0,25.0,2019020311,Colorado Avalanche,Away,Vancouver Canucks
+11,-69.0,-7.0,Goal,69.0,7.0,2019020311,Colorado Avalanche,Away,Vancouver Canucks
+12,-37.0,-5.0,Goal,37.0,5.0,2019020357,Colorado Avalanche,Home,Toronto Maple Leafs
+13,-80.0,-11.0,Goal,80.0,11.0,2019020387,Colorado Avalanche,Home,Edmonton Oilers
+14,73.0,5.0,Goal,73.0,5.0,2019020394,Colorado Avalanche,Away,Chicago Blackhawks
+15,-61.0,4.0,Goal,61.0,-4.0,2019020413,Colorado Avalanche,Home,Chicago Blackhawks
+16,-63.0,-23.0,Goal,63.0,23.0,2019020434,Colorado Avalanche,Away,Toronto Maple Leafs
+17,-69.0,-25.0,Goal,69.0,25.0,2019020471,Colorado Avalanche,Home,Calgary Flames
+18,-66.0,10.0,Goal,66.0,-10.0,2019020500,Colorado Avalanche,Home,New Jersey Devils
+19,-65.0,16.0,Goal,65.0,-16.0,2019020536,Colorado Avalanche,Away,Chicago Blackhawks
+20,72.0,5.0,Goal,72.0,5.0,2019020588,Colorado Avalanche,Home,Minnesota Wild
+21,-38.0,2.0,Goal,38.0,-2.0,2019020621,Colorado Avalanche,Home,Winnipeg Jets
+22,68.0,24.0,Goal,68.0,24.0,2019020621,Colorado Avalanche,Home,Winnipeg Jets
+23,-69.0,-1.0,Goal,69.0,1.0,2019020634,Colorado Avalanche,Home,St. Louis Blues
+24,78.0,-2.0,Goal,78.0,-2.0,2019020666,Colorado Avalanche,Away,New York Rangers
+25,-70.0,-21.0,Goal,70.0,21.0,2019020691,Colorado Avalanche,Home,Pittsburgh Penguins
+26,-72.0,6.0,Goal,72.0,-6.0,2019020744,Colorado Avalanche,Home,St. Louis Blues
+27,87.0,4.0,Goal,87.0,4.0,2019020759,Colorado Avalanche,Home,Detroit Red Wings
+28,9.0,33.0,Goal,9.0,33.0,2019020759,Colorado Avalanche,Home,Detroit Red Wings
+29,-50.0,-26.0,Goal,50.0,26.0,2019020850,Colorado Avalanche,Away,Columbus Blue Jackets
+30,-65.0,-33.0,Goal,65.0,33.0,2019020859,Colorado Avalanche,Away,Minnesota Wild
+31,68.0,-10.0,Goal,68.0,-10.0,2019020919,Colorado Avalanche,Home,Tampa Bay Lightning
+32,-60.0,-13.0,Goal,60.0,13.0,2019021031,Colorado Avalanche,Home,Anaheim Ducks
+33,-60.0,-24.0,Goal,60.0,24.0,2019021065,Colorado Avalanche,Away,San Jose Sharks
+34,73.0,14.0,Goal,73.0,14.0,2019030015,Colorado Avalanche,Home,Vegas Golden Knights
+35,-67.0,-21.0,Goal,67.0,21.0,2019030162,Colorado Avalanche,Home,Arizona Coyotes
+36,-64.0,14.0,Goal,64.0,-14.0,2019030165,Colorado Avalanche,Home,Arizona Coyotes
+37,-65.0,5.0,Goal,65.0,-5.0,2019030165,Colorado Avalanche,Home,Arizona Coyotes
+38,52.0,-2.0,Goal,52.0,-2.0,2019030241,Colorado Avalanche,Home,Dallas Stars
+39,-82.0,0.0,Goal,82.0,-0.0,2019030241,Colorado Avalanche,Home,Dallas Stars
+40,55.0,-3.0,Goal,55.0,-3.0,2019030242,Colorado Avalanche,Home,Dallas Stars
+41,57.0,2.0,Goal,57.0,2.0,2019030245,Colorado Avalanche,Home,Dallas Stars
+42,-41.0,-16.0,Goal,41.0,16.0,2019030246,Colorado Avalanche,Away,Dallas Stars
+43,-68.0,4.0,Goal,68.0,-4.0,2020020022,Colorado Avalanche,Home,St. Louis Blues
+44,63.0,18.0,Goal,63.0,18.0,2020020066,Colorado Avalanche,Away,Los Angeles Kings
+45,54.0,-6.0,Goal,54.0,-6.0,2020020259,Colorado Avalanche,Away,Vegas Golden Knights
+46,76.0,-20.0,Goal,76.0,-20.0,2020020287,Colorado Avalanche,Home,Vegas Golden Knights
+47,-64.0,-25.0,Goal,64.0,25.0,2020020337,Colorado Avalanche,Away,Arizona Coyotes
+48,-69.0,-2.0,Goal,69.0,2.0,2020020428,Colorado Avalanche,Home,Los Angeles Kings
+49,-65.0,-1.0,Goal,65.0,1.0,2020020445,Colorado Avalanche,Home,Los Angeles Kings
+50,-51.0,-31.0,Goal,51.0,31.0,2020020568,Colorado Avalanche,Home,Anaheim Ducks
+51,-63.0,8.0,Goal,63.0,-8.0,2020020475,Colorado Avalanche,Home,Minnesota Wild
+52,45.0,-2.0,Goal,45.0,-2.0,2020020508,Colorado Avalanche,Away,Arizona Coyotes
+53,-83.0,-7.0,Goal,83.0,7.0,2020020723,Colorado Avalanche,Home,St. Louis Blues
+54,84.0,-15.0,Goal,84.0,-15.0,2020020723,Colorado Avalanche,Home,St. Louis Blues
+55,-75.0,27.0,Goal,75.0,-27.0,2020020594,Colorado Avalanche,Home,St. Louis Blues
+56,-68.0,0.0,Goal,68.0,-0.0,2020020609,Colorado Avalanche,Away,Minnesota Wild
+57,-54.0,-4.0,Goal,54.0,4.0,2020020623,Colorado Avalanche,Away,Minnesota Wild
+58,-81.0,5.0,Goal,81.0,-5.0,2020020656,Colorado Avalanche,Away,Anaheim Ducks
+59,65.0,19.0,Goal,65.0,19.0,2020020225,Colorado Avalanche,Home,Arizona Coyotes
+60,56.0,15.0,Goal,56.0,15.0,2020020748,Colorado Avalanche,Away,St. Louis Blues
+61,76.0,14.0,Goal,76.0,14.0,2020020191,Colorado Avalanche,Away,St. Louis Blues
+62,85.0,-6.0,Goal,85.0,-6.0,2020020808,Colorado Avalanche,Home,San Jose Sharks
+63,-68.0,5.0,Goal,68.0,-5.0,2020030151,Colorado Avalanche,Home,St. Louis Blues
+64,-73.0,0.0,Goal,73.0,-0.0,2020030151,Colorado Avalanche,Home,St. Louis Blues
+65,-59.0,-29.0,Goal,59.0,29.0,2020030152,Colorado Avalanche,Home,St. Louis Blues
+66,-33.0,-3.0,Goal,33.0,3.0,2020030152,Colorado Avalanche,Home,St. Louis Blues
+67,-74.0,1.0,Goal,74.0,-1.0,2020030152,Colorado Avalanche,Home,St. Louis Blues
+68,3.0,1.0,Goal,3.0,1.0,2020030154,Colorado Avalanche,Away,St. Louis Blues
+69,70.0,19.0,Goal,70.0,19.0,2020030231,Colorado Avalanche,Home,Vegas Golden Knights
+70,78.0,-6.0,Goal,78.0,-6.0,2020030231,Colorado Avalanche,Home,Vegas Golden Knights
+71,-51.0,-29.0,Goal,51.0,29.0,2021020068,Colorado Avalanche,Away,Tampa Bay Lightning
+72,-78.0,1.0,Goal,78.0,-1.0,2021020399,Colorado Avalanche,Away,New York Rangers
+73,55.0,27.0,Goal,55.0,27.0,2021020415,Colorado Avalanche,Home,Detroit Red Wings
+74,-60.0,-6.0,Goal,60.0,6.0,2021020606,Colorado Avalanche,Home,Winnipeg Jets
+75,-60.0,3.0,Goal,60.0,-3.0,2021020622,Colorado Avalanche,Home,Toronto Maple Leafs
+76,-63.0,-22.0,Goal,63.0,22.0,2021020641,Colorado Avalanche,Away,Nashville Predators
+77,-80.0,1.0,Goal,80.0,-1.0,2021020677,Colorado Avalanche,Away,Arizona Coyotes
+78,-62.0,-15.0,Goal,62.0,15.0,2021020677,Colorado Avalanche,Away,Arizona Coyotes
+79,56.0,1.0,Goal,56.0,1.0,2021020549,Colorado Avalanche,Home,Dallas Stars
+80,-81.0,-19.0,Goal,81.0,19.0,2021020504,Colorado Avalanche,Away,Buffalo Sabres
+81,50.0,-12.0,Goal,50.0,-12.0,2021020508,Colorado Avalanche,Away,Boston Bruins
+82,63.0,-13.0,Goal,63.0,-13.0,2021020826,Colorado Avalanche,Home,Winnipeg Jets
+83,-77.0,-1.0,Goal,77.0,1.0,2021020826,Colorado Avalanche,Home,Winnipeg Jets
+84,60.0,22.0,Goal,60.0,22.0,2021020836,Colorado Avalanche,Away,Vegas Golden Knights
+85,-52.0,4.0,Goal,52.0,-4.0,2021020857,Colorado Avalanche,Home,New York Islanders
+86,59.0,-4.0,Goal,59.0,-4.0,2021020886,Colorado Avalanche,Home,Calgary Flames
+87,-77.0,9.0,Goal,77.0,-9.0,2021020900,Colorado Avalanche,Away,New York Islanders
+88,-77.0,-7.0,Goal,77.0,7.0,2021020904,Colorado Avalanche,Away,New Jersey Devils
+89,-58.0,-37.0,Goal,58.0,37.0,2021020949,Colorado Avalanche,Home,Calgary Flames
+90,-62.0,-9.0,Goal,62.0,9.0,2021020949,Colorado Avalanche,Home,Calgary Flames
+91,-79.0,6.0,Goal,79.0,-6.0,2021021119,Colorado Avalanche,Away,Pittsburgh Penguins
+92,50.0,16.0,Goal,50.0,16.0,2021021119,Colorado Avalanche,Away,Pittsburgh Penguins
+93,77.0,-1.0,Goal,77.0,-1.0,2021021141,Colorado Avalanche,Away,Winnipeg Jets
+94,-74.0,-17.0,Goal,74.0,17.0,2021021151,Colorado Avalanche,Away,Edmonton Oilers
+95,-81.0,-3.0,Goal,81.0,3.0,2021021151,Colorado Avalanche,Away,Edmonton Oilers
