@@ -5,18 +5,31 @@
 ### Team Members: Aditya Bhadreshkumar Panchal, Divye Maheshwari, Hemang Bhanushali, Priyanka Manam, Rohit Irvisetty
 
 ### Description
+Sports statistics are the most important for team managers/coaches to prepare their team better.
+Analyzing the optimal positions will help the team to make strategic decisions in choosing
+players so as to maximize their winning chances. In addition, the players will be able to learn
+about their gameplay from the analysis and make adjustments to improve their on-field
+performance.
 
 
 ### Main Datasets
-1) Game Stats for each game from season 2015-2016 to 2020-2021
+1) Game Stats for each game from season 2015-2016 to 2020-2021:
    https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021}
-2) 
-
-
-
-### Tech stack used
-
-
+2) Player position data:
+   statsapi.web.nhl.com/api/v1
+3) Twitter sentiment analysis:
+   Twitter api
+4) Fight Statistics from:
+   https://www.hockeyfights.com/stats
 
 ### Dashboard Link
+Tableau Dashboard:
 
+
+### Acknowledgement:
+
+We used a third party tool for feature selection. Since the tool is not a package, we had to import it to our repository.
+
+Source: https://github.com/WillKoehrsen/feature-selector
+
+Credits: Will koehrsen
