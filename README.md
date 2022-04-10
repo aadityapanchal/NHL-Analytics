@@ -1,5 +1,3 @@
-# CMPT733 - NHL Analytics
-
 # CMPT733 - Big Data Project.
 
 ### Team Members: Aditya Bhadreshkumar Panchal, Divye Maheshwari, Hemang Bhanushali, Priyanka Manam, Rohit Irvisetty
@@ -22,12 +20,17 @@ performance.
 4) Fight Statistics from:
    https://www.hockeyfights.com/stats
 
+
+### How to run:
+
+**Prediction_Modeling.ipynb**: This notebook models and tests the accuracy of game prediction model. 
+
+
 ### Dashboard Link
 Tableau Dashboard:
 
 
 ### Acknowledgement:
-
 We used a third party tool for feature selection. Since the tool is not a package, we had to import it to our repository.
 
 Source: https://github.com/WillKoehrsen/feature-selector
