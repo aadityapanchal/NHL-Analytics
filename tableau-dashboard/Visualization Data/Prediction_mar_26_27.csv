@@ -1,0 +1,20 @@
+game_id,Away_Team,Home_Team,Teams,Away Win Probability,Home Win Probability,date
+0,New York Islanders,Boston Bruins,Boston Bruins (Home) vs New York Islanders (Away),0.24776626,0.75223374,mar_26
+1,Tampa Bay Lightning,Detroit Red Wings,Detroit Red Wings (Home) vs Tampa Bay Lightning (Away),0.5505936,0.4494064,mar_26
+2,Chicago Blackhawks,Vegas Golden Knights,Vegas Golden Knights (Home) vs Chicago Blackhawks (Away),0.5505936,0.4494064,mar_26
+3,Florida Panthers,Ottawa Senators,Ottawa Senators (Home) vs Florida Panthers (Away),0.73923963,0.26076037,mar_26
+4,Vancouver Canucks,Dallas Stars,Dallas Stars (Home) vs Vancouver Canucks (Away),0.73923963,0.26076037,mar_26
+5,New Jersey Devils,Washington Capitals,Washington Capitals (Home) vs New Jersey Devils (Away),0.7436639,0.2563361,mar_26
+6,Toronto Maple Leafs,Montreal Canadiens,Montreal Canadiens (Home) vs Toronto Maple Leafs (Away),0.2474609,0.7525391,mar_26
+7,Carolina Hurricanes,St Louis Blues,St Louis Blues (Home) vs Carolina Hurricanes (Away),0.34704286,0.65295714,mar_26
+8,Columbus Blue Jackets,Minnesota Wild,Minnesota Wild (Home) vs Columbus Blue Jackets (Away),0.34704286,0.65295714,mar_26
+9,Edmonton Oilers,Calgary Flames,Calgary Flames (Home) vs Edmonton Oilers (Away),0.59798336,0.40201667,mar_26
+10,Anaheim Ducks,San Jose Sharks,San Jose Sharks (Home) vs Anaheim Ducks (Away),0.21082866,0.78917134,mar_26
+11,Tampa Bay Lightning,New York Islanders,New York Islanders (Home) vs Tampa Bay Lightning (Away),0.45045388,0.5495461,mar_27
+12,Buffalo Sabres,New York Rangers,New York Rangers (Home) vs Buffalo Sabres (Away),0.45045388,0.5495461,mar_27
+13,Detroit Red Wings,Pittsburgh Penguins,Pittsburgh Penguins (Home) vs Detroit Red Wings (Away),0.24969637,0.7503036,mar_27
+14,Philadelphia Flyers,Nashville Predators,Nashville Predators (Home) vs Philadelphia Flyers (Away),0.24988985,0.75011015,mar_27
+15,Colorado Avalanche,Minnesota Wild,Minnesota Wild (Home) vs Colorado Avalanche (Away),0.40968043,0.5903196,mar_27
+16,Arizona Coyotes,Winnipeg Jets,Winnipeg Jets (Home) vs Arizona Coyotes (Away),0.40968043,0.5903196,mar_27
+17,Montreal Canadiens,New Jersey Devils,New Jersey Devils (Home) vs Montreal Canadiens (Away),0.40968043,0.5903196,mar_27
+18,Florida Panthers,Toronto Maple Leafs,Toronto Maple Leafs (Home) vs Florida Panthers (Away),0.1845302,0.8154698,mar_27

@@ -1,0 +1,62 @@
+,coor_x,coor_y,event_type,coor_x_normalized,coor_y_normalized,game_id,shooting_team,shooting_team_home_or_away,shot_goal_defending_team
+0,58.0,-31.0,Goal,58.0,-31.0,2019020005,Tampa Bay Lightning,Home,Florida Panthers
+1,47.0,-14.0,Goal,47.0,-14.0,2019020047,Tampa Bay Lightning,Away,Toronto Maple Leafs
+2,80.0,-12.0,Goal,80.0,-12.0,2019020047,Tampa Bay Lightning,Away,Toronto Maple Leafs
+3,78.0,3.0,Goal,78.0,3.0,2019020181,Tampa Bay Lightning,Away,New York Rangers
+4,76.0,1.0,Goal,76.0,1.0,2019020249,Tampa Bay Lightning,Away,Buffalo Sabres
+5,38.0,-6.0,Goal,38.0,-6.0,2019020287,Tampa Bay Lightning,Home,New York Rangers
+6,-70.0,6.0,Goal,70.0,-6.0,2019020353,Tampa Bay Lightning,Home,Anaheim Ducks
+7,61.0,-13.0,Goal,61.0,-13.0,2019020365,Tampa Bay Lightning,Home,Buffalo Sabres
+8,-54.0,4.0,Goal,54.0,-4.0,2019020380,Tampa Bay Lightning,Home,St. Louis Blues
+9,83.0,6.0,Goal,83.0,6.0,2019020430,Tampa Bay Lightning,Away,Nashville Predators
+10,55.0,3.0,Goal,55.0,3.0,2019020526,Tampa Bay Lightning,Home,Ottawa Senators
+11,66.0,-5.0,Goal,66.0,-5.0,2019020558,Tampa Bay Lightning,Away,Washington Capitals
+12,-71.0,15.0,Goal,71.0,-15.0,2019020572,Tampa Bay Lightning,Home,Florida Panthers
+13,83.0,-11.0,Goal,83.0,-11.0,2019020629,Tampa Bay Lightning,Away,Montréal Canadiens
+14,-56.0,5.0,Goal,56.0,-5.0,2019020663,Tampa Bay Lightning,Home,Vancouver Canucks
+15,-63.0,18.0,Goal,63.0,-18.0,2019020680,Tampa Bay Lightning,Home,Arizona Coyotes
+16,-75.0,11.0,Goal,75.0,-11.0,2019020680,Tampa Bay Lightning,Home,Arizona Coyotes
+17,41.0,-12.0,Goal,41.0,-12.0,2019020716,Tampa Bay Lightning,Home,Los Angeles Kings
+18,-76.0,16.0,Goal,76.0,-16.0,2019020736,Tampa Bay Lightning,Away,Minnesota Wild
+19,50.0,-20.0,Goal,50.0,-20.0,2019020736,Tampa Bay Lightning,Away,Minnesota Wild
+20,82.0,2.0,Goal,82.0,2.0,2019020742,Tampa Bay Lightning,Away,Winnipeg Jets
+21,-82.0,-4.0,Goal,82.0,4.0,2019020742,Tampa Bay Lightning,Away,Winnipeg Jets
+22,-78.0,5.0,Goal,78.0,-5.0,2019020791,Tampa Bay Lightning,Away,Anaheim Ducks
+23,-71.0,14.0,Goal,71.0,-14.0,2019020805,Tampa Bay Lightning,Away,San Jose Sharks
+24,19.0,-12.0,Goal,19.0,-12.0,2019020829,Tampa Bay Lightning,Home,Pittsburgh Penguins
+25,-82.0,-6.0,Goal,82.0,6.0,2019020863,Tampa Bay Lightning,Away,Columbus Blue Jackets
+26,83.0,-16.0,Goal,83.0,-16.0,2019020863,Tampa Bay Lightning,Away,Columbus Blue Jackets
+27,52.0,6.0,Goal,52.0,6.0,2019020897,Tampa Bay Lightning,Home,Philadelphia Flyers
+28,-70.0,1.0,Goal,70.0,-1.0,2019020919,Tampa Bay Lightning,Away,Colorado Avalanche
+29,71.0,-22.0,Goal,71.0,-22.0,2019020970,Tampa Bay Lightning,Home,Toronto Maple Leafs
+30,79.0,-17.0,Goal,79.0,-17.0,2019020986,Tampa Bay Lightning,Home,Chicago Blackhawks
+31,-78.0,1.0,Goal,78.0,-1.0,2019021034,Tampa Bay Lightning,Home,Montréal Canadiens
+32,-48.0,-7.0,Goal,48.0,7.0,2019021053,Tampa Bay Lightning,Away,Boston Bruins
+33,-71.0,-23.0,Goal,71.0,23.0,2019030002,Tampa Bay Lightning,Home,Washington Capitals
+34,-78.0,3.0,Goal,78.0,-3.0,2019030002,Tampa Bay Lightning,Home,Washington Capitals
+35,-86.0,-6.0,Goal,86.0,6.0,2019030122,Tampa Bay Lightning,Home,Columbus Blue Jackets
+36,83.0,5.0,Goal,83.0,5.0,2019030222,Tampa Bay Lightning,Home,Boston Bruins
+37,83.0,-3.0,Goal,83.0,-3.0,2019030223,Tampa Bay Lightning,Away,Boston Bruins
+38,-81.0,-1.0,Goal,81.0,1.0,2019030311,Tampa Bay Lightning,Home,New York Islanders
+39,-74.0,17.0,Goal,74.0,-17.0,2019030312,Tampa Bay Lightning,Home,New York Islanders
+40,-72.0,-1.0,Goal,72.0,1.0,2019030413,Tampa Bay Lightning,Away,Dallas Stars
+41,-79.0,19.0,Goal,79.0,-19.0,2020030141,Tampa Bay Lightning,Away,Florida Panthers
+42,-72.0,22.0,Goal,72.0,-22.0,2020030141,Tampa Bay Lightning,Away,Florida Panthers
+43,71.0,-21.0,Goal,71.0,-21.0,2020030144,Tampa Bay Lightning,Home,Florida Panthers
+44,-54.0,26.0,Goal,54.0,-26.0,2020030224,Tampa Bay Lightning,Home,Carolina Hurricanes
+45,48.0,-8.0,Goal,48.0,-8.0,2020030224,Tampa Bay Lightning,Home,Carolina Hurricanes
+46,59.0,-39.0,Goal,59.0,-39.0,2020030411,Tampa Bay Lightning,Home,Montréal Canadiens
+47,55.0,-1.0,Goal,55.0,-1.0,2020030411,Tampa Bay Lightning,Home,Montréal Canadiens
+48,-80.0,3.0,Goal,80.0,-3.0,2020030413,Tampa Bay Lightning,Away,Montréal Canadiens
+49,73.0,-16.0,Goal,73.0,-16.0,2021020009,Tampa Bay Lightning,Away,Detroit Red Wings
+50,43.0,-11.0,Goal,43.0,-11.0,2021020637,Tampa Bay Lightning,Away,Buffalo Sabres
+51,75.0,6.0,Goal,75.0,6.0,2021020637,Tampa Bay Lightning,Away,Buffalo Sabres
+52,-35.0,2.0,Goal,35.0,-2.0,2021020637,Tampa Bay Lightning,Away,Buffalo Sabres
+53,-73.0,18.0,Goal,73.0,-18.0,2021020700,Tampa Bay Lightning,Away,Los Angeles Kings
+54,78.0,2.0,Goal,78.0,2.0,2021020477,Tampa Bay Lightning,Away,Colorado Avalanche
+55,-65.0,-10.0,Goal,65.0,10.0,2021020631,Tampa Bay Lightning,Away,New Jersey Devils
+56,73.0,26.0,Goal,73.0,26.0,2021020812,Tampa Bay Lightning,Home,Edmonton Oilers
+57,-58.0,21.0,Goal,58.0,-21.0,2021020834,Tampa Bay Lightning,Away,Nashville Predators
+58,81.0,1.0,Goal,81.0,1.0,2021020852,Tampa Bay Lightning,Home,Ottawa Senators
+59,-68.0,-8.0,Goal,68.0,8.0,2021020967,Tampa Bay Lightning,Away,Seattle Kraken
+60,-73.0,29.0,Goal,73.0,-29.0,2021021091,Tampa Bay Lightning,Home,Montréal Canadiens
