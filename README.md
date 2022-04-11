@@ -1,6 +1,5 @@
 # NHL-Analytics
-
-# CMPT733 - Big Data Project.
+# CMPT733 - Big Data Project
 
 ### Team Members: [Aditya Bhadreshkumar Panchal](https://github.com/aadityapanchal), [Divye Maheshwari](https://www.github.com/divyemaheshwari), [Hemang Bhanushali](https://www.github.com/ihemangb07), [Priyanka Manam](https://www.github.com/priman15), [Rohit Irvisetty](https://www.github.com/rohitirvisetty)
 
@@ -44,3 +43,4 @@ We used a third party tool for feature selection. Since the tool is not a packag
 Source: https://github.com/WillKoehrsen/feature-selector
 
 Credits: Will koehrsen
+=======
