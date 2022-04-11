@@ -13,13 +13,8 @@ Sports analytics and prediction is one of the renowned fields where data science
 - [Priyanka Manam](https://www.github.com/priman15)
 - [Rohit Irvisetty](https://www.github.com/rohitirvisetty)
 
-### Description
- In addition, the players will be able to learn
-about their gameplay from the analysis and make adjustments to improve their on-field
-performance.
-
-### Main Datasets
-- [Game Stats for each game](https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021}):
+### Datasets
+- [Game Stats for each game](https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021})
 - [Player position data](statsapi.web.nhl.com/api/v1)
 - [Twitter sentiment analysis](https://developer.twitter.com/en/docs/twitter-api)
 - [Fight Statistics](https://www.hockeyfights.com/stats)
