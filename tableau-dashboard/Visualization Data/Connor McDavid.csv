@@ -1,0 +1,109 @@
+,coor_x,coor_y,event_type,coor_x_normalized,coor_y_normalized,game_id,shooting_team,shooting_team_home_or_away,shot_goal_defending_team
+0,82.0,4.0,Goal,82.0,4.0,2019020003,Edmonton Oilers,Home,Vancouver Canucks
+1,81.0,9.0,Goal,81.0,9.0,2019020029,Edmonton Oilers,Home,Los Angeles Kings
+2,-87.0,2.0,Goal,87.0,-2.0,2019020049,Edmonton Oilers,Away,New Jersey Devils
+3,88.0,-22.0,Goal,88.0,-22.0,2019020061,Edmonton Oilers,Away,New York Rangers
+4,-76.0,7.0,Goal,76.0,-7.0,2019020095,Edmonton Oilers,Home,Philadelphia Flyers
+5,66.0,2.0,Goal,66.0,2.0,2019020154,Edmonton Oilers,Home,Washington Capitals
+6,82.0,2.0,Goal,82.0,2.0,2019020223,Edmonton Oilers,Home,Arizona Coyotes
+7,83.0,10.0,Goal,83.0,10.0,2019020236,Edmonton Oilers,Home,St. Louis Blues
+8,-78.0,-12.0,Goal,78.0,12.0,2019020269,Edmonton Oilers,Away,Anaheim Ducks
+9,-83.0,-5.0,Goal,83.0,5.0,2019020269,Edmonton Oilers,Away,Anaheim Ducks
+10,-67.0,14.0,Goal,67.0,-14.0,2019020269,Edmonton Oilers,Away,Anaheim Ducks
+11,56.0,-13.0,Goal,56.0,-13.0,2019020290,Edmonton Oilers,Home,Colorado Avalanche
+12,49.0,0.0,Goal,49.0,0.0,2019020290,Edmonton Oilers,Home,Colorado Avalanche
+13,-52.0,19.0,Goal,52.0,-19.0,2019020290,Edmonton Oilers,Home,Colorado Avalanche
+14,-86.0,11.0,Goal,86.0,-11.0,2019020330,Edmonton Oilers,Away,San Jose Sharks
+15,-79.0,3.0,Goal,79.0,-3.0,2019020345,Edmonton Oilers,Away,Los Angeles Kings
+16,85.0,8.0,Goal,85.0,8.0,2019020360,Edmonton Oilers,Away,Vegas Golden Knights
+17,72.0,20.0,Goal,72.0,20.0,2019020360,Edmonton Oilers,Away,Vegas Golden Knights
+18,-72.0,-3.0,Goal,72.0,3.0,2019020364,Edmonton Oilers,Away,Arizona Coyotes
+19,69.0,-4.0,Goal,69.0,-4.0,2019020414,Edmonton Oilers,Home,Vancouver Canucks
+20,69.0,-19.0,Goal,69.0,-19.0,2019020493,Edmonton Oilers,Away,Minnesota Wild
+21,-83.0,-4.0,Goal,83.0,4.0,2019020561,Edmonton Oilers,Home,Montréal Canadiens
+22,64.0,7.0,Goal,64.0,7.0,2019020590,Edmonton Oilers,Home,Calgary Flames
+23,-67.0,4.0,Goal,67.0,-4.0,2019020641,Edmonton Oilers,Away,Boston Bruins
+24,79.0,1.0,Goal,79.0,1.0,2019020659,Edmonton Oilers,Away,Toronto Maple Leafs
+25,78.0,0.0,Goal,78.0,0.0,2019020700,Edmonton Oilers,Away,Calgary Flames
+26,-69.0,-18.0,Goal,69.0,18.0,2019020745,Edmonton Oilers,Home,Arizona Coyotes
+27,-78.0,0.0,Goal,78.0,-0.0,2019020745,Edmonton Oilers,Home,Arizona Coyotes
+28,70.0,-10.0,Goal,70.0,-10.0,2019020803,Edmonton Oilers,Away,Calgary Flames
+29,-67.0,17.0,Goal,67.0,-17.0,2019020803,Edmonton Oilers,Away,Calgary Flames
+30,84.0,3.0,Goal,84.0,3.0,2019020837,Edmonton Oilers,Home,San Jose Sharks
+31,-84.0,8.0,Goal,84.0,-8.0,2019020966,Edmonton Oilers,Away,Los Angeles Kings
+32,-46.0,-5.0,Goal,46.0,5.0,2019021018,Edmonton Oilers,Away,Nashville Predators
+33,84.0,5.0,Goal,84.0,5.0,2019021058,Edmonton Oilers,Home,Columbus Blue Jackets
+34,-86.0,-4.0,Goal,86.0,4.0,2019021080,Edmonton Oilers,Home,Winnipeg Jets
+35,-55.0,-23.0,Goal,55.0,23.0,2019030061,Edmonton Oilers,Home,Chicago Blackhawks
+36,-72.0,21.0,Goal,72.0,-21.0,2019030062,Edmonton Oilers,Home,Chicago Blackhawks
+37,-86.0,4.0,Goal,86.0,-4.0,2019030062,Edmonton Oilers,Home,Chicago Blackhawks
+38,84.0,-21.0,Goal,84.0,-21.0,2019030062,Edmonton Oilers,Home,Chicago Blackhawks
+39,-87.0,7.0,Goal,87.0,-7.0,2019030063,Edmonton Oilers,Away,Chicago Blackhawks
+40,-69.0,5.0,Goal,69.0,-5.0,2020020013,Edmonton Oilers,Home,Vancouver Canucks
+41,-84.0,5.0,Goal,84.0,-5.0,2020020013,Edmonton Oilers,Home,Vancouver Canucks
+42,75.0,-1.0,Goal,75.0,-1.0,2020020070,Edmonton Oilers,Away,Toronto Maple Leafs
+43,72.0,-14.0,Goal,72.0,-14.0,2020020100,Edmonton Oilers,Away,Winnipeg Jets
+44,-80.0,1.0,Goal,80.0,-1.0,2020020133,Edmonton Oilers,Home,Toronto Maple Leafs
+45,-87.0,3.0,Goal,87.0,-3.0,2020020133,Edmonton Oilers,Home,Toronto Maple Leafs
+46,-65.0,8.0,Goal,65.0,-8.0,2020020141,Edmonton Oilers,Home,Ottawa Senators
+47,67.0,-18.0,Goal,67.0,-18.0,2020020185,Edmonton Oilers,Away,Calgary Flames
+48,66.0,3.0,Goal,66.0,3.0,2020020285,Edmonton Oilers,Home,Calgary Flames
+49,-71.0,16.0,Goal,71.0,-16.0,2020020285,Edmonton Oilers,Home,Calgary Flames
+50,-80.0,9.0,Goal,80.0,-9.0,2020020285,Edmonton Oilers,Home,Calgary Flames
+51,78.0,-4.0,Goal,78.0,-4.0,2020020307,Edmonton Oilers,Away,Vancouver Canucks
+52,65.0,0.0,Goal,65.0,0.0,2020020320,Edmonton Oilers,Away,Vancouver Canucks
+53,66.0,21.0,Goal,66.0,21.0,2020020383,Edmonton Oilers,Home,Calgary Flames
+54,68.0,1.0,Goal,68.0,1.0,2020020410,Edmonton Oilers,Home,Ottawa Senators
+55,85.0,32.0,Goal,85.0,32.0,2020020426,Edmonton Oilers,Home,Ottawa Senators
+56,66.0,-18.0,Goal,66.0,-18.0,2020020465,Edmonton Oilers,Away,Calgary Flames
+57,-65.0,9.0,Goal,65.0,-9.0,2020020474,Edmonton Oilers,Home,Winnipeg Jets
+58,-64.0,14.0,Goal,64.0,-14.0,2020020474,Edmonton Oilers,Home,Winnipeg Jets
+59,65.0,3.0,Goal,65.0,3.0,2020020491,Edmonton Oilers,Home,Winnipeg Jets
+60,61.0,9.0,Goal,61.0,9.0,2020020582,Edmonton Oilers,Home,Calgary Flames
+61,-76.0,12.0,Goal,76.0,-12.0,2020020621,Edmonton Oilers,Away,Ottawa Senators
+62,76.0,5.0,Goal,76.0,5.0,2020020709,Edmonton Oilers,Home,Montréal Canadiens
+63,-77.0,0.0,Goal,77.0,-0.0,2020020721,Edmonton Oilers,Home,Montréal Canadiens
+64,86.0,6.0,Goal,86.0,6.0,2020020760,Edmonton Oilers,Away,Winnipeg Jets
+65,-59.0,-20.0,Goal,59.0,20.0,2020020760,Edmonton Oilers,Away,Winnipeg Jets
+66,-82.0,-3.0,Goal,82.0,3.0,2020020760,Edmonton Oilers,Away,Winnipeg Jets
+67,72.0,8.0,Goal,72.0,8.0,2020020807,Edmonton Oilers,Home,Calgary Flames
+68,-69.0,-11.0,Goal,69.0,11.0,2020020829,Edmonton Oilers,Away,Vancouver Canucks
+69,16.0,-29.0,Goal,16.0,-29.0,2020020829,Edmonton Oilers,Away,Vancouver Canucks
+70,67.0,-22.0,Goal,67.0,-22.0,2020020662,Edmonton Oilers,Home,Vancouver Canucks
+71,-59.0,-8.0,Goal,59.0,8.0,2020020510,Edmonton Oilers,Away,Montréal Canadiens
+72,87.0,-4.0,Goal,87.0,-4.0,2020030184,Edmonton Oilers,Away,Winnipeg Jets
+73,67.0,15.0,Goal,67.0,15.0,2021020031,Edmonton Oilers,Home,Calgary Flames
+74,-54.0,17.0,Goal,54.0,-17.0,2021020031,Edmonton Oilers,Home,Calgary Flames
+75,78.0,-3.0,Goal,78.0,-3.0,2021020031,Edmonton Oilers,Home,Calgary Flames
+76,84.0,4.0,Goal,84.0,4.0,2021020049,Edmonton Oilers,Home,Anaheim Ducks
+77,65.0,-9.0,Goal,65.0,-9.0,2021020061,Edmonton Oilers,Away,Arizona Coyotes
+78,-77.0,14.0,Goal,77.0,-14.0,2021020061,Edmonton Oilers,Away,Arizona Coyotes
+79,71.0,24.0,Goal,71.0,24.0,2021020101,Edmonton Oilers,Home,Philadelphia Flyers
+80,81.0,-3.0,Goal,81.0,-3.0,2021020158,Edmonton Oilers,Home,New York Rangers
+81,82.0,18.0,Goal,82.0,18.0,2021020184,Edmonton Oilers,Away,Detroit Red Wings
+82,-76.0,6.0,Goal,76.0,-6.0,2021020228,Edmonton Oilers,Away,St. Louis Blues
+83,79.0,-3.0,Goal,79.0,-3.0,2021020255,Edmonton Oilers,Home,Winnipeg Jets
+84,63.0,1.0,Goal,63.0,1.0,2021020255,Edmonton Oilers,Home,Winnipeg Jets
+85,82.0,5.0,Goal,82.0,5.0,2021020269,Edmonton Oilers,Home,Chicago Blackhawks
+86,-88.0,6.0,Goal,88.0,-6.0,2021020300,Edmonton Oilers,Away,Arizona Coyotes
+87,78.0,4.0,Goal,78.0,4.0,2021020350,Edmonton Oilers,Home,Pittsburgh Penguins
+88,-77.0,7.0,Goal,77.0,-7.0,2021020366,Edmonton Oilers,Away,Seattle Kraken
+89,-76.0,4.0,Goal,76.0,-4.0,2021020480,Edmonton Oilers,Away,Seattle Kraken
+90,-79.0,-5.0,Goal,79.0,5.0,2021020562,Edmonton Oilers,Away,New Jersey Devils
+91,74.0,0.0,Goal,74.0,0.0,2021020562,Edmonton Oilers,Away,New Jersey Devils
+92,82.0,6.0,Goal,82.0,6.0,2021020766,Edmonton Oilers,Home,Nashville Predators
+93,80.0,5.0,Goal,80.0,5.0,2021020766,Edmonton Oilers,Home,Nashville Predators
+94,-69.0,-10.0,Goal,69.0,10.0,2021020791,Edmonton Oilers,Away,Ottawa Senators
+95,-68.0,-18.0,Goal,68.0,18.0,2021020522,Edmonton Oilers,Away,San Jose Sharks
+96,-76.0,14.0,Goal,76.0,-14.0,2021020681,Edmonton Oilers,Away,Winnipeg Jets
+97,-69.0,22.0,Goal,69.0,-22.0,2021020812,Edmonton Oilers,Away,Tampa Bay Lightning
+98,-72.0,-2.0,Goal,72.0,2.0,2021020812,Edmonton Oilers,Away,Tampa Bay Lightning
+99,65.0,-7.0,Goal,65.0,-7.0,2021020853,Edmonton Oilers,Away,Philadelphia Flyers
+100,84.0,3.0,Goal,84.0,3.0,2021020940,Edmonton Oilers,Home,Tampa Bay Lightning
+101,-66.0,-25.0,Goal,66.0,25.0,2021020940,Edmonton Oilers,Home,Tampa Bay Lightning
+102,86.0,-6.0,Goal,86.0,-6.0,2021020960,Edmonton Oilers,Home,Detroit Red Wings
+103,85.0,-3.0,Goal,85.0,-3.0,2021020973,Edmonton Oilers,Home,Buffalo Sabres
+104,77.0,0.0,Goal,77.0,0.0,2021020989,Edmonton Oilers,Home,New Jersey Devils
+105,85.0,-5.0,Goal,85.0,-5.0,2021021057,Edmonton Oilers,Home,Arizona Coyotes
+106,85.0,-3.0,Goal,85.0,-3.0,2021021070,Edmonton Oilers,Home,Los Angeles Kings
+107,79.0,3.0,Goal,79.0,3.0,2021021087,Edmonton Oilers,Home,St. Louis Blues

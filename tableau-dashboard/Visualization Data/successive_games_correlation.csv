@@ -1,0 +1,19 @@
+,Features,Correlation
+0,Goals by home team in current match,0.288675135
+2,Goals by home team in next match,0.707673146
+4,Goals by home team in next to next match,0
+6,Home Corsi For % in current match,-0.326829373
+7,Home Corsi For % in next match,0.136975009
+8,Home Corsi For % in next to next match,0.755853676
+9,Home Fenwick For % in current match,-0.171517918
+10,Home Fenwick For % in next match,0.170084184
+11,Home Fenwick For % in next to next match,0.44384832
+12,Home High Danger Scoring Chances % in current match,0.509848263
+13,Home High Danger Scoring Chances % in next match,0.405793905
+14,Home High Danger Scoring Chances % in next to next match,0.188475728
+15,Home attendance in current match,0.333183351
+16,Home attendance in next match,0.21981073
+17,Home attendance in next to match,-0.143137917
+18,Home team won in current match,0.25819889
+19,Home team won in next match,0.353553391
+20,Home team won in next to next match,0.25819889
