@@ -1,46 +1,61 @@
-# NHL-Analytics
-# CMPT733 - Big Data Project
+# CMPT733 - Big Data Lab 2 Project
+## NHL Ice Hockey Analytics
+Sports analytics and prediction is one of the renowned fields where data science is being adopted at a fast pace. Sports analytics and prediction allow team management to stay updated on a team's performance. Our project is aimed at providing a one stop solution to the Team Management by providing solution to following four problems
+- What is the outcome of the upcoming matches?
+- How to optimally position the players to create more Goal-Scoring opportunities and have a stronger defence?
+- Find the impact of in-game fights on the team's performance in the current and upcoming two matches?
+- What is the fans' sentiment towards teams' performance, team and management updates?
 
-### Team Members: [Aditya Bhadreshkumar Panchal](https://github.com/aadityapanchal), [Divye Maheshwari](https://www.github.com/divyemaheshwari), [Hemang Bhanushali](https://www.github.com/ihemangb07), [Priyanka Manam](https://www.github.com/priman15), [Rohit Irvisetty](https://www.github.com/rohitirvisetty)
+### Team Members: 
+- [Aditya Panchal](https://github.com/aadityapanchal)
+- [Divye Maheshwari](https://www.github.com/divyemaheshwari)
+- [Hemang Bhanushali](https://www.github.com/ihemangb07)
+- [Priyanka Manam](https://www.github.com/priman15)
+- [Rohit Irvisetty](https://www.github.com/rohitirvisetty)
 
 ### Description
-Sports statistics are the most important for team managers/coaches to prepare their team better.
-Analyzing the optimal positions will help the team to make strategic decisions in choosing
-players so as to maximize their winning chances. In addition, the players will be able to learn
+ In addition, the players will be able to learn
 about their gameplay from the analysis and make adjustments to improve their on-field
 performance.
 
 ### Main Datasets
-1) Game Stats for each game from season 2015-2016 to 2020-2021:
-   https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021}
-2) Player position data:
-   statsapi.web.nhl.com/api/v1
-3) Twitter sentiment analysis:
-   Twitter api
-4) Fight Statistics from:
-   https://www.hockeyfights.com/stats
+- [Game Stats for each game](https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021}):
+- [Player position data](statsapi.web.nhl.com/api/v1)
+- [Twitter sentiment analysis](https://developer.twitter.com/en/docs/twitter-api)
+- [Fight Statistics](https://www.hockeyfights.com/stats)
 
+### Evnironment Setup
+Our project requires a few Python modules to be installed. Use `pip install -r requirements.txt` to setup the dependencies locally.
 
-### How to run:
+### Code Structure:
+- **Prediction_Modeling.ipynb**: Python notebook to develop ML models and tests their accuracy by predicting upcoming games 
 
-**Prediction_Modeling.ipynb**: This notebook models and tests the accuracy of game prediction model.
+- **NHL-Shots-Data-Analysis.ipynb**: Python notebook to analyze the optimal position of players for both attack and defence strategy
 
-**NHL-Shots-Data-Analysis.ipynb**: 
+- **Tweet_Sentiment_analysis.ipynb**: Python notebook is for analysing fans' sentiments towards a team using tweets fetched from Twitter
 
-**Tweet_Sentiment_analysis.ipynb**: This notebook is for analysing fans' sentiments and opinions towards a team using tweets fetched from Twitter.
-
-**fight-analysis.ipynb**: In this notebook, we have analyzed the relationship between game outcomes like goal scoring, puck possession, unblocked shot attempts, match-winning, etc., with fights between players of different teams. 
-
-Further, we have also compared and performed a correlation analysis between teams' performance in the following two matches after they fought in their previous game to understand the psychological impact of a fistfight on the team.
+- **fight-analysis.ipynb**: Python notebook to anaylze the impact of in-game physical fights between player on various game statistics such as game results, goals scored, puck possession. Additionally, it also evaluates the impact of the fight on the team's performance in their next two matches
 
 ### Dashboard Link
-Tableau Dashboard:
+- [Top 4 Player Goal scoring region](https://public.tableau.com/app/profile/hemang6825/viz/Top_player_shots/Top4players?publish=yes)
 
+- [Attacking Strategy for Toronto Maple Leafs against Vancouver Canucks](https://public.tableau.com/app/profile/hemang6825/viz/Shot_analysis/AttackingpositionforTorontoMapleLeafs?publish=yes)
+
+- [Defensive Strategy For Toronto Maple Leafs against Vancouver Canucks](https://public.tableau.com/app/profile/hemang6825/viz/Shot_analysis/DefensivePositionforTorontoMapleLeafs?publish=yes)
+
+- [Home Goal Away Goal Analysis](https://public.tableau.com/app/profile/hemang6825/viz/Team_statistics/GoalsScoredAnalysis?publish=yes)
+
+- [Match_Prediction](https://public.tableau.com/app/profile/hemang6825/viz/Match_Prediction/Dropdown-Prediction#1)
+
+- [Impact of in-game fights on game outcomes](https://public.tableau.com/app/profile/hemang6825/viz/Final_Notebook-Copy2/Plotsforcorrelationbetweenfightsandgameoutcomes?publish=yes)
+
+
+- [Impact of in-game fights on outcomes of two successive matches](https://public.tableau.com/app/profile/hemang6825/viz/Final_Notebook-Copy2/Plotsforcorrelationbetweenfightsandgameoutcomesintwosuccessivematches?publish=yes)
+
+
+- [Fan's Sentiment towards Toronto Maple Leafs on Twitter](https://public.tableau.com/app/profile/hemang6825/viz/Final_Notebook-Copy2/PublicOpiniontowardsTorontoMapleLeafsonTwitter?publish=yes)
+
+- [Team wise Fan's on Twitter](https://public.tableau.com/app/profile/hemang6825/viz/Final_Notebook-Copy2/FansSentimentsonTwitter?publish=yes)
 
 ### Acknowledgement:
-We used a third party tool for feature selection. Since the tool is not a package, we had to import it to our repository.
-
-Source: https://github.com/WillKoehrsen/feature-selector
-
-Credits: Will koehrsen
-=======
+For Feature Selection, we used an externally developed third party tool [Feature_Selector](https://github.com/WillKoehrsen/feature-selector) by `Will koehrsen`. Since it is currenlty not developed as a python package, we have added the required files to our code base. 
