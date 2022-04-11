@@ -13,13 +13,13 @@ Sports analytics and prediction is one of the renowned fields where data science
 - [Priyanka Manam](https://www.github.com/priman15)
 - [Rohit Irvisetty](https://www.github.com/rohitirvisetty)
 
-### Datasets
+### Datasets:
 - [Game Stats for each game](https://www.naturalstattrick.com/games.php?fromseason={20152016}&thruseason={20202021})
 - [Player position data](statsapi.web.nhl.com/api/v1)
 - [Twitter sentiment analysis](https://developer.twitter.com/en/docs/twitter-api)
 - [Fight Statistics](https://www.hockeyfights.com/stats)
 
-### Evnironment Setup
+### Evnironment Setup:
 Our project requires a few Python modules to be installed. Use `pip install -r requirements.txt` to setup the dependencies locally.
 
 ### Code Structure:
@@ -31,7 +31,7 @@ Our project requires a few Python modules to be installed. Use `pip install -r r
 
 - **fight-analysis.ipynb**: Python notebook to anaylze the impact of in-game physical fights between player on various game statistics such as game results, goals scored, puck possession. Additionally, it also evaluates the impact of the fight on the team's performance in their next two matches
 
-### Dashboard Link
+### Dashboard Link:
 - [Top 4 Player Goal scoring region](https://public.tableau.com/app/profile/hemang6825/viz/Top_player_shots/Top4players?publish=yes)
 
 - [Attacking Strategy for Toronto Maple Leafs against Vancouver Canucks](https://public.tableau.com/app/profile/hemang6825/viz/Shot_analysis/AttackingpositionforTorontoMapleLeafs?publish=yes)
